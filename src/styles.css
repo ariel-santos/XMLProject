@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+.master{
+  background-color: gray;
+  padding-top: 50px;
+  min-height: 100vh;
+}
+
+.container__page{
+  padding: 50px;
+  background-color: #FFF;
+  box-shadow: 1px 1px 10px #000;
+}
