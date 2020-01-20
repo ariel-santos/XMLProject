@@ -1,0 +1,3747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink"
+	article-type="review-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="en">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="nlm-ta">Arq Bras Oftalmol</journal-id>
+			<journal-id journal-id-type="publisher-id">abo</journal-id>
+			<journal-title-group>
+				<journal-title>Arquivos Brasileiros de Oftalmologia</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Arq. Bras.
+					Oftalmol.</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">0004-2749</issn>
+			<issn pub-type="epub">1678-2925</issn>
+			<publisher>
+				<publisher-name>Conselho Brasileiro de Oftalmologia</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.5935/0004-2749.20190103</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>REVIEW ARTICLE</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Mechanisms and biomarker candidates in pterygium
+					development</article-title>
+				<trans-title-group xml:lang="pt">
+					<trans-title>Mecanismos e candidatos a biomarcadores no desenvolvimento do
+						pterígio</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0003-3057-880X</contrib-id>
+					<name>
+						<surname>Wanzeler</surname>
+						<given-names>Ana Cláudia Viana</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Barbosa</surname>
+						<given-names>Italo Antunes França</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Duarte</surname>
+						<given-names>Bruna</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">1</xref>
+					<xref ref-type="aff" rid="aff2">2</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Borges</surname>
+						<given-names>Daniel</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Barbosa</surname>
+						<given-names>Eduardo Buzolin</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kamiji</surname>
+						<given-names>Danielle</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Huarachi</surname>
+						<given-names>Delma Regina Gomes</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Melo</surname>
+						<given-names>Mônica Barbosa de</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">1</xref>
+					<xref ref-type="aff" rid="aff3">3</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Alves</surname>
+						<given-names>Mônica</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">1</xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="orgname">Universidade de Campinas</institution>
+				<institution content-type="orgdiv1">Faculdade de Ciências Médicas</institution>
+				<institution content-type="orgdiv2">Department of Ophthalmology</institution>
+				<addr-line>
+					<city>Campinas</city>
+					<state>SP</state>
+				</addr-line>
+				<country country="BR">Brazil</country>
+				<institution content-type="original">Department of Ophthalmology, Faculdade de
+					Ciências Médicas, Universidade de Campinas, Campinas, SP, Brazil.</institution>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="orgname">Pontifícia Universidade Católica de
+					Campinas</institution>
+				<addr-line>
+					<city>Campinas</city>
+					<state>SP</state>
+				</addr-line>
+				<country country="BR">Brazil</country>
+				<institution content-type="original">Pontifícia Universidade Católica de Campinas,
+					Campinas, SP, Brazil.</institution>
+			</aff>
+			<aff id="aff3">
+				<label>3</label>
+				<institution content-type="orgname">Universidade de Campinas</institution>
+				<institution content-type="orgdiv1">Center for Molecular Biology and Genetic
+					Engineering</institution>
+				<institution content-type="orgdiv2">Laboratory of Human Genetics</institution>
+				<addr-line>
+					<city>Campinas</city>
+					<state>SP</state>
+				</addr-line>
+				<country country="BR">Brazil</country>
+				<institution content-type="original">Laboratory of Human Genetics, Center for
+					Molecular Biology and Genetic Engineering, Universidade de Campinas, Campinas,
+					SP, Brazil.</institution>
+			</aff>
+			<author-notes>
+				<corresp id="c1"><bold>Corresponding author:</bold> Ana Cláudia Viana Wanzeler. Rua
+					Vital Brasil - Cidade Universitária - Campinas - SP - 13083-888 - Brazil.
+					E-mail: <email>anaclaudiavw@yahoo.com.br</email>
+				</corresp>
+				<fn fn-type="conflict">
+					<p><bold>Disclosure of potential conflicts of interest:</bold> None of the
+						authors have any potential conflicts of interest to disclose.</p>
+				</fn>
+			</author-notes>
+			<pub-date publication-format="electronic" date-type="pub">
+				<day>30</day>
+				<month>09</month>
+				<year>2019</year>
+			</pub-date>
+			<pub-date publication-format="electronic" date-type="collection">
+				<season>Nov-Dec</season>
+				<year>2019</year>
+			</pub-date>
+			<volume>82</volume>
+			<issue>6</issue>
+			<fpage>528</fpage>
+			<lpage>536</lpage>
+			<history>
+				<date date-type="received">
+					<day>12</day>
+					<month>11</month>
+					<year>2018</year>
+				</date>
+				<date date-type="accepted">
+					<day>28</day>
+					<month>05</month>
+					<year>2019</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access"
+					xlink:href="https://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+					<license-p>This is an Open Access article distributed under the terms of the
+						Creative Commons Attribution License, which permits unrestricted use,
+						distribution, and reproduction in any medium, provided the original work is
+						properly cited</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>ABSTRACT</title>
+				<p>Pterygium pathogenesis has been mainly asso ciated with UV light exposure;
+					however, this association remains quite controversial. The complete mechanism of
+					pterygium also remains to be clarified. Factors such as inflammation, viral
+					infection, oxidative stress, DNA methylation, inflammatory mediators,
+					extracellular matrix modulators, apoptotic and oncogenic proteins, loss of
+					heterozygosity, microsatellite instability, lymphangiogenesis,
+					epithelial-mesenchymal cell transition, and alterations in cholesterol
+					metabolism have been identified as causes. Several studies aimed to clarify the
+					molecular mechanisms underlying the growth and proliferation of pterygium.
+					Understanding its molecular basis provides new potential therapeutic targets for
+					its prevention and treatment. A comprehensive search of the databases, namely,
+					MedLine, EMBASE, and LILACS, was conducted with the following key words:
+					pterygium, epidemiology, pathogenesis, biomarkers, and review. This review
+					describes the epidemiology, clinical presentation, and current investigation of
+					biological mediators involved in pterygium development. </p>
+			</abstract>
+			<trans-abstract xml:lang="pt">
+				<title>RESUMO</title>
+				<p>A patogênese do pterígio tem sido relacionada, prin cipalmente, à exposição à luz
+					ultravioleta, mas esta asso ciação permanece bastante controversa. O mecanismo
+					completo do pte rígio também permanece por esclarecer. Fatores como inflamação,
+					infecção viral, estresse oxidativo, metilação do DNA, mediadores inflamatórios,
+					moduladores de matriz extracelular, proteínas apoptóticas e oncogênicas, perda
+					de heterozigose, instabilidade de microssatélites, linfangiogênese, transição
+					celular epitelial-mesenquimal e alterações no metabolismo do colesterol tem sido
+					identificados como causas. Diversos estudos visam esclarecer os mecanismos
+					moleculares subjacentes ao crescimento e proliferação do pterígio. Entender sua
+					base mo lecular fornece novos alvos terapêuticos potenciais para sua prevenção e
+					tratamento. Uma busca abrangente nas bases de dados, a saber, MedLine, EMBASE e
+					LILACS, foi realizada com as seguintes palavras-chave: pterígio; epidemiologia;
+					patogênese; biomarcadores e revisão. Esta revisão descreve a epidemiologia,
+					apresentação clínica e a atual investigação de mediadores biológicos envolvidos
+					no desenvolvimento do pterígio.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>Pterygium/epidemiology</kwd>
+				<kwd>pathogenesis</kwd>
+				<kwd>Biomarkers</kwd>
+				<kwd>Review</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="pt">
+				<title>Descritores:</title>
+				<kwd>Pterígio/epidemiologia</kwd>
+				<kwd>patogênese</kwd>
+				<kwd>Biomarca dores</kwd>
+				<kwd>Revisão</kwd>
+			</kwd-group>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>INTRODUCTION</title>
+			<p>Pterygium is a nonneoplastic elastotic degeneration of subepithelial growth,
+				originating from the bulbar conjunctiva that extends to the corneal surface, and
+				even reached the visual axis in some cases. It is a common ocular surface disorder,
+				especially in geographical areas near the equator. The exact cause of pterygium
+				remains unclear; however, some risk factors are identified as causes, with long-term
+				ultraviolet radiation exposure as the most important<xref ref-type="bibr" rid="B1"
+					>1</xref><sup>,</sup><xref ref-type="bibr" rid="B2">2</xref>. Although pterygium
+				is generally regarded as a benign and cosmetic problem, it may result in significant
+				visual morbidity or even potential blindness in severe cases if not properly
+					treated<xref ref-type="bibr" rid="B3">3</xref>. It usually occurs in the nasal
+				area, but can develop temporally or in both directions and may even occur
+				bilaterally. Pterygium surgery is generally considered when symptoms do not respond
+				to conservative treatment, when it induces visual disturbances, disability, or for
+				cosmetic purposes<xref ref-type="bibr" rid="B4">4</xref><sup>,</sup><xref
+					ref-type="bibr" rid="B5">5</xref>.</p>
+			<p>With regard to the mechanisms, genetic factors were suggested in some studies, noting
+				that some genes associated with DNA repair play a crucial role in pterygium
+				development. However, studies on genetic variant contributions are limited in sample
+				size and should be cautiously interpreted. Chronic irritation with actinic damage is
+				likely responsible for the typical fibrovascular reaction of pterygium<xref
+					ref-type="bibr" rid="B6">6</xref>. Growth factors, cytokines, and matrix
+				metalloproteinase are involved in the pathogenesis of pterygium and, along with UV
+				exposure, may trigger the proinflammatory aspects<xref ref-type="bibr" rid="B7"
+					>7</xref>.</p>
+			<p>This review describes the epidemiology, clinical presentation, and investigation of
+				biological modulators found in recent literatures. Therefore, the following keywords
+				were searched: pterygium, epidemiology, angiogenesis, proliferation, inflammation,
+				gene, protein, pathogenesis, and tight junction proteins.</p>
+			<sec>
+				<title>Epidemiology</title>
+				<p>The prevalence of pterygium has been investigated in several population-based
+					studies. Rates widely vary depending on the studied population, ranging from
+					2.8% to 38.7%, as recent studies in South Korea and China found prevalences of
+						8.8%<xref ref-type="bibr" rid="B8">8</xref> and 9.84%<xref ref-type="bibr"
+						rid="B9">9</xref>, in contrast to 16% in Arizona (USA)<xref ref-type="bibr"
+						rid="B10">10</xref> and 38.7% in Northwest Ethiopia<xref ref-type="bibr"
+						rid="B11">11</xref>.</p>
+				<p>In Brazil, no population data were conducted on pterygium prevalence throughout
+					the country, and only a few studies investigated this subject even for specific
+					regions. A survey in riverside communities at the Solimoes and Japura rivers, in
+					Amazonas, showed that its prevalence in the general population was 21.2%<xref
+						ref-type="bibr" rid="B12">12</xref>. Another survey, still in the Brazilian
+					Amazon, reported that up to 36.6% prevalence of pterygium was observed in the
+					indigenous population<xref ref-type="bibr" rid="B13">13</xref>. In the southeast
+					region, a study in Botucatu City revealed a prevalence of 8.12%<xref
+						ref-type="bibr" rid="B14">14</xref>.</p>
+				<p>A large-scale survey on the rate of pterygium and other ocular diseases has not
+					been conducted yet. A meta-analysis published in 2013, covering a total of 20
+					studies involving 12 countries with 900,545 samples, showed a combined pterygium
+					prevalence rate of 10.2% (95% confidence interval [CI]: 6.3% to 16.1%), in the
+					general population<xref ref-type="bibr" rid="B15">15</xref>. <xref
+						ref-type="table" rid="t1">Table 1</xref> summarizes the epidemiological
+					information.</p>
+				<table-wrap id="t1">
+					<label>Table 1</label>
+					<caption>
+						<title>Epidemiological studies</title>
+					</caption>
+					<table frame="hsides" rules="groups">
+						<colgroup>
+							<col width="20%"/>
+							<col width="20%"/>
+							<col width="20%"/>
+							<col width="20%"/>
+							<col width="20%"/>
+						</colgroup>
+						<thead>
+							<tr>
+								<th align="left" style="background-color:#BBBDC0">Country</th>
+								<th align="center" style="background-color:#BBBDC0">Study</th>
+								<th align="center" style="background-color:#BBBDC0">Prevalence</th>
+								<th align="center" style="background-color:#BBBDC0">Latitude</th>
+								<th align="center" style="background-color:#BBBDC0">Gender %</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td align="left" valign="top" style="background-color:#E6E7E8"
+									>Brazil (Amazon)</td>
+								<td align="center" valign="top" style="background-color:#E6E7E8"
+									>Ribeiro et al., 2011<sup>(</sup><xref ref-type="bibr" rid="B12"
+										>12</xref><sup>)</sup></td>
+								<td align="center" valign="top" style="background-color:#E6E7E8"
+									>21.2%</td>
+								<td align="center" valign="top" style="background-color:#E6E7E8">03º
+									06' S</td>
+								<td align="center" valign="top" style="background-color:#E6E7E8"
+									>Male 57.8</td>
+							</tr>
+							<tr>
+								<td align="left" valign="top" style="background-color:#E6E7E8"
+									>&#x00A0;</td>
+								<td align="center" valign="top" style="background-color:#E6E7E8"
+									>Paula et al., 2006<sup>(</sup><xref ref-type="bibr" rid="B13"
+										>13</xref><sup>)</sup></td>
+								<td align="center" valign="top" style="background-color:#E6E7E8"
+									>36.6%</td>
+								<td align="center" valign="top" style="background-color:#E6E7E8"
+									>&#x00A0;</td>
+								<td align="center" valign="top" style="background-color:#E6E7E8"
+									>Female 42.2</td>
+							</tr>
+							<tr>
+								<td align="left" valign="top" style="background-color:#E6E7E8"
+									>&#x00A0;</td>
+								<td align="center" valign="top" style="background-color:#E6E7E8"
+									>&#x00A0;</td>
+								<td align="center" valign="top" style="background-color:#E6E7E8"
+									>&#x00A0;</td>
+								<td align="center" valign="top" style="background-color:#E6E7E8"
+									>&#x00A0;</td>
+								<td align="center" valign="top" style="background-color:#E6E7E8"
+									>Male 15.7</td>
+							</tr>
+							<tr>
+								<td align="left" valign="top" style="background-color:#E6E7E8"
+									>&#x00A0;</td>
+								<td align="center" valign="top" style="background-color:#E6E7E8"
+									>&#x00A0;</td>
+								<td align="center" valign="top" style="background-color:#E6E7E8"
+									>&#x00A0;</td>
+								<td align="center" valign="top" style="background-color:#E6E7E8"
+									>&#x00A0;</td>
+								<td align="center" valign="top" style="background-color:#E6E7E8"
+									>Female 20.5</td>
+							</tr>
+							<tr>
+								<td align="left" valign="top">Brazil (Southeast)</td>
+								<td align="center" valign="top">Shiratori et al.,
+										2010<sup>(</sup><xref ref-type="bibr" rid="B14"
+										>14</xref><sup>)</sup></td>
+								<td align="center" valign="top">8.12%</td>
+								<td align="center" valign="top">22º 53' S</td>
+								<td align="center" valign="top">Male 10.4</td>
+							</tr>
+							<tr>
+								<td align="left" valign="top">&#x00A0;</td>
+								<td align="center" valign="top">&#x00A0;</td>
+								<td align="center" valign="top">&#x00A0;</td>
+								<td align="center" valign="top">&#x00A0;</td>
+								<td align="center" valign="top">Female 6.5</td>
+							</tr>
+							<tr>
+								<td rowspan="4" align="left" valign="top"
+									style="background-color:#E6E7E8">South Korea</td>
+								<td align="center" valign="top" style="background-color:#E6E7E8">Pyo
+									et al., 2016<sup>(</sup><xref ref-type="bibr" rid="B8"
+										>8</xref><sup>)</sup></td>
+								<td align="center" valign="top" style="background-color:#E6E7E8"
+									>8.8%</td>
+								<td rowspan="4" align="center" valign="top"
+									style="background-color:#E6E7E8">37° 33' N</td>
+								<td align="center" valign="top" style="background-color:#E6E7E8"
+									>Male 3.1</td>
+							</tr>
+							<tr>
+								<td rowspan="3" align="center" valign="top"
+									style="background-color:#E6E7E8">Rim et al.,
+										2017<sup>(</sup><xref ref-type="bibr" rid="B16"
+										>16</xref><sup>)</sup></td>
+								<td rowspan="3" align="center" valign="top"
+									style="background-color:#E6E7E8">1.9%-3.8%</td>
+								<td align="center" valign="top" style="background-color:#E6E7E8"
+									>Female 2.5</td>
+							</tr>
+							<tr>
+								<td align="center" valign="top" style="background-color:#E6E7E8"
+									>Male 0.18</td>
+							</tr>
+							<tr>
+								<td align="center" valign="top" style="background-color:#E6E7E8"
+									>Female 0.24</td>
+							</tr>
+							<tr>
+								<td rowspan="2" align="left" valign="top">Northwest ethiopia</td>
+								<td rowspan="2" align="center" valign="top">Anbesse et al.,
+										2017<sup>(</sup><xref ref-type="bibr" rid="B11"
+										>11</xref><sup>)</sup></td>
+								<td rowspan="2" align="center" valign="top">38.7%</td>
+								<td rowspan="2" align="center" valign="top">12º 31`N</td>
+								<td align="center" valign="top">Male 2.20</td>
+							</tr>
+							<tr>
+								<td align="center" valign="top">Female 1.0</td>
+							</tr>
+							<tr>
+								<td rowspan="2" align="left" valign="top"
+									style="background-color:#E6E7E8">China</td>
+								<td rowspan="2" align="center" valign="top"
+									style="background-color:#E6E7E8">Song et al.,
+										2017<sup>(</sup><xref ref-type="bibr" rid="B9"
+										>9</xref><sup>)</sup></td>
+								<td rowspan="2" align="center" valign="top"
+									style="background-color:#E6E7E8">9.84%</td>
+								<td rowspan="2" align="center" valign="top"
+									style="background-color:#E6E7E8">35° 00' N</td>
+								<td align="center" valign="top" style="background-color:#E6E7E8"
+									>Male 10.26</td>
+							</tr>
+							<tr>
+								<td align="center" valign="top" style="background-color:#E6E7E8"
+									>Female 9.46</td>
+							</tr>
+							<tr>
+								<td rowspan="2" align="left" valign="top">Nepal</td>
+								<td rowspan="2" align="center" valign="top">Shrestha &amp; Shrestha,
+										2014<sup>(</sup><xref ref-type="bibr" rid="B18"
+										>18</xref><sup>)</sup></td>
+								<td rowspan="2" align="center" valign="top">12.4%-65.8%</td>
+								<td rowspan="2" align="center" valign="top">27º 42`N</td>
+								<td align="center" valign="top">Male 8.8%-38.5</td>
+							</tr>
+							<tr>
+								<td align="center" valign="top">Female 14.4%-40.7</td>
+							</tr>
+							<tr>
+								<td rowspan="2" align="left" valign="top"
+									style="background-color:#E6E7E8">USA (Arizona)</td>
+								<td rowspan="2" align="center" valign="top"
+									style="background-color:#E6E7E8">West S &amp; Muñoz B,
+										2009<sup>(</sup><xref ref-type="bibr" rid="B10"
+										>10</xref><sup>)</sup></td>
+								<td rowspan="2" align="center" valign="top"
+									style="background-color:#E6E7E8">16%</td>
+								<td rowspan="2" align="center" valign="top"
+									style="background-color:#E6E7E8">34° 30' N</td>
+								<td align="center" valign="top" style="background-color:#E6E7E8"
+									>Male 23.7</td>
+							</tr>
+							<tr>
+								<td align="center" valign="top" style="background-color:#E6E7E8"
+									>Female 11.5</td>
+							</tr>
+						</tbody>
+					</table>
+				</table-wrap>
+				<p>Pterygium more frequently occurs in young adults, rarely before aged 15 years. It
+					is believed to have some inherited patterns; however, several risk factors have
+					been reported, such as dust exposure, heat, inflammation, and eye surface
+					infection, rural residency, advanced age, low educational levels, and outdoor
+						activity<xref ref-type="bibr" rid="B16">16</xref>. </p>
+				<p>The prevalence of pterygium has been described as higher in males<xref
+						ref-type="bibr" rid="B16">16</xref>; however, other studies have shown that
+					both genders have the same proportions<xref ref-type="bibr" rid="B17">17</xref>
+					or even predominantly occurred in women<xref ref-type="bibr" rid="B18"
+					>18</xref>. Its relationship with smoking was also investigated, but remains
+						inconclusive<xref ref-type="bibr" rid="B15">15</xref>.</p>
+			</sec>
+			<sec>
+				<title>Clinical presentation</title>
+				<p>Pterygium is a conjunctival fibrovascular tissue that extends to the cornea and
+					can lead to irritating symptoms, visual disturbance, recurrent inflammation, and
+					aesthetic alterations in the ocular surface. Its diagnosis is confirmed with
+					slit-lamp examination, in which the pterygium can be classified as grade 1, when
+					the fibrovascular tissue reaches the limbus; grade 2, when it covers the cornea
+					in approximately 2 mm; grade 3, when it reaches the pupil margin; and grade 4,
+					when it exceeds the pupil (<xref ref-type="fig" rid="f1">Figure 1</xref>). As
+					regards its morphological features, pterygium can be classified as involutive or
+					atrophic when it allows visualization of structures immediately below the lesion
+					and as inflamed once the fibrovascular tissue is fleshy and prevents
+					visualization of the structures below<xref ref-type="bibr" rid="B19"
+						>19</xref><sup>,</sup><xref ref-type="bibr" rid="B20">20</xref>. Recently, a
+					functional classification using the corneal topographic data based on corneal
+					higher-order irregularity was proposed by Miyata et al. to objectively evaluate
+					pterygium severity. Hence, pterygium was graded based on corneal irregularity
+					within the three zones: 1.0, 3.0, and 5.0 mm diameters. Thus, increased corneal
+					irregularity within a 1.0-mm diameter was considered to highly result in the
+					risk for visual function impact, and increased corneal irregularity within a
+					5.0-mm diameter was considered as mild severity with visual function
+						influences<xref ref-type="bibr" rid="B21">21</xref>.</p>
+				<p>
+					<fig id="f1">
+						<label>Figure 1</label>
+						<caption>
+							<title>Pterygium classification.</title>
+						</caption>
+						<graphic xlink:href="0004-2749-abo-20190103-gf01.tif"/>
+					</fig>
+				</p>
+				<p>Visual impairment induced by pterygium growth occurs due to induced astigmatism
+					and opacification in the visual axis, requiring surgical treatment, as well as
+					recurrent inflammation that does not improve with topical treatment<xref
+						ref-type="bibr" rid="B20">20</xref>.</p>
+				<p>Its surgical procedure consists of dissecting the head of the pterygium from the
+					cornea and resection of the conjunctiva and Tenon’s capsule. Several surgical
+					techni ques have been used, with excision of the pterygium followed by
+					autologous conjunctival grafts as the most common, showing lower recurrence
+					rates. Recurrence after a surgical treatment can be identified by the growth of
+					conjunctival vessels toward the limbal edge inducing fibrous tissue growth into
+					the cornea and representing poor outcomes<xref ref-type="bibr" rid="B22"
+						>22</xref>. However, clinical features such as extensive size, inflammation,
+					and recurrent lesions remain challenges during the surgical treatment<xref
+						ref-type="bibr" rid="B23">23</xref><sup>,</sup><xref ref-type="bibr"
+						rid="B24">24</xref>.</p>
+			</sec>
+			<sec>
+				<title>Pathogenesis</title>
+				<p>UV radiation exposure </p>
+				<p>UV radiation from the sunlight is divided into three categories:</p>
+				<p>1. UVA (wavelength, 320-400 nm) has the longest wavelength and maximum
+					penetration power; thus it is not attenuated by the ozone layer. Is an important
+					inducer of pigmentation and contributes to premature skin aging,
+					immunosuppression, and carcinogenesis<xref ref-type="bibr" rid="B25">25</xref>. </p>
+				<p>2. UVB (wavelength, 280-320 nm) is absorbed by the ozone layer and comprises
+					approximately 1%-10% of the total UV radiation that reaches the Earth’s surface.
+					It is responsible for various biological events, including sunburn,
+					immunosuppression, and carcinogenesis<xref ref-type="bibr" rid="B25">25</xref>. </p>
+				<p>3. UVC (wavelength, 200-280 nm) has the highest energy among the three UV rays
+					and possesses strong mutagenic properties. It is almost completely absorbed by
+					the ozone layer, thereby imposing negligible effects to human eyes<xref
+						ref-type="bibr" rid="B26">26</xref>. </p>
+				<p>UVB light exposure has been attributed as a major cause of pterygium. This kind
+					of radiation can potentially harm and alter cells and tissues through direct
+					phototoxic effects on the cellular DNA and generation of reactive oxygen
+					species, which damage the cellular DNA. Wavelengths below 300 nm have been known
+					as the most biologically active forms and are absorbed by the cornea. Exposure
+					to UVB radiation causes oxidative stress, which may lead to upregulation of many
+					potential mediators of pterygium growth<xref ref-type="bibr" rid="B27"
+						>27</xref><sup>-</sup><xref ref-type="bibr" rid="B29">29</xref> as shown in
+						<xref ref-type="fig" rid="f2">figure 2</xref>.</p>
+				<p>
+					<fig id="f2">
+						<label>Figure 2</label>
+						<caption>
+							<title>UV-related mechanism in pterygium development.</title>
+						</caption>
+						<graphic xlink:href="0004-2749-abo-20190103-gf02.tif"/>
+					</fig>
+				</p>
+			</sec>
+			<sec>
+				<title>Viral infections</title>
+				<p>The polymerase chain reaction technique allowed examination of the alleged
+					involvement of viral infections in the process of pterygium pathogenesis. Some
+					reports demonstrated the presence of herpes simplex virus and human papilloma
+					virus (HPV) in pterygium samples<xref ref-type="bibr" rid="B30"
+						>30</xref><sup>,</sup><xref ref-type="bibr" rid="B31">31</xref>. Viruses
+					encode proteins that inactivate <italic>p53</italic>, leading to chromosomal
+					instability and increasing the likelihood of cell progression to malignancy. HPV
+					is most frequently found in the pterygium, with variable pre valence rates<xref
+						ref-type="bibr" rid="B32">32</xref>. Its involvement as a cofactor in the
+					pterygium pathogenesis is suggested, but remains controversial. If indeed HPV is
+					involved in pterygium pathogenesis or recurrence, anti-viral medications or
+					vaccination may be new options in pterygium therapy<xref ref-type="bibr"
+						rid="B30">30</xref><sup>,</sup><xref ref-type="bibr" rid="B33"
+					>33</xref>.</p>
+			</sec>
+			<sec>
+				<title>Molecular mechanisms</title>
+				<p>Many studies have proposed possible mechanisms of pterygium development,
+					including oxidative stress, extracellular matrix modulators, apoptotic and
+					oncogenic proteins, loss of heterozygosis, DNA methylation, inflammatory
+					mediators, lymphangiogenesis, transition from mesenchymal epithelial cells, and
+					cholesterol metabolism alterations. These studies show evidences that several
+					molecules, such as matrix metalloproteinases (MMPs), growth factors, and
+					interleukins (ILs), are related to proliferation, inflammation, angiogenesis,
+					and fibrosis, as shown in <xref ref-type="fig" rid="f3">figure 3</xref> and
+					detailed below<xref ref-type="bibr" rid="B34">34</xref><sup>-</sup><xref
+						ref-type="bibr" rid="B36">36</xref>. </p>
+				<p>
+					<fig id="f3">
+						<label>Figure 3</label>
+						<caption>
+							<title>Possible biomarkers related to pterygium development.</title>
+						</caption>
+						<graphic xlink:href="0004-2749-abo-20190103-gf03.tif"/>
+					</fig>
+				</p>
+			</sec>
+			<sec>
+				<title>Tumor suppressor genes</title>
+				<p>Tumor suppressor genes prevent cells from converting into cancer cells and
+					regulate cell growth along with proto-oncogenes<xref ref-type="bibr" rid="B37"
+						>37</xref>. One of the tumor suppressor genes that have been extensively
+					studied is <italic>p53</italic>. A survey<xref ref-type="bibr" rid="B38"
+						>38</xref> showed that &gt;20% of all pterygium samples were positive for
+						<italic>p53</italic> expression. Another immunohistochemical study<xref
+						ref-type="bibr" rid="B37">37</xref> evaluated 13 pterygium samples and 2
+					normal conjunctiva samples, which showed that 54% of pterygium were positive for
+						<italic>p53</italic> aberrant expression, whereas no pathological staining
+					was observed in the normal conjunctiva. Therefore, the aberrant expression of
+						<italic>p53</italic> is suggested to promote cell proliferation and slow
+					down apoptosis, thereby accelerating the development of pterygium; besides, the
+					possible growth of limbal tumors is also suggested to be caused by cellular DNA
+					damage that causes mutations in other genes<xref ref-type="bibr" rid="B39"
+						>39</xref>. In addition to <italic>p53</italic>, other tumor suppressor
+					genes, such as <italic>p63</italic>, <italic>p16</italic>, and
+						<italic>p27</italic>, were possibly involved in the development of
+					pterygium. <italic>P63</italic> is more expressed in the basal and parabasal
+					layers in primary pterygium and in the total thickness of the epithelium in
+					recurrent pterygium. Increased expression of <italic>p16</italic> protein was
+					also observed in pterygium. Both <italic>p63</italic> and <italic>p16</italic>
+					appeared to be rarely expressed in the normal conjunctiva<xref ref-type="bibr"
+						rid="B40">40</xref>. <italic>P27</italic> gene showed low nuclear immuno
+					reactivity in pterygium tissues, differing from other tumor suppressor
+						genes<xref ref-type="bibr" rid="B41">41</xref>. </p>
+			</sec>
+			<sec>
+				<title>Apoptosis-related proteins</title>
+				<p>Survivin is a protein encoded by the <italic>BIRC5</italic> gene in humans; it is
+					a member of the apoptosis inhibitory gene family and is expressed in the
+					pterygium epithelium<xref ref-type="bibr" rid="B42">42</xref>. The molecular
+					mechanisms of survivin regulation are still not well understood; however,
+					survivin regulation seems to be associated with the <italic>p53</italic>
+					protein. Oxidative stress has been demonstrated to be caused by the acti vation
+					of survivin leading to pterygium growth<xref ref-type="bibr" rid="B43"
+					>43</xref>. In addition, survivin has been found to be highly expressed in all
+					pterygium tissues, but not in the normal human conjunctiva. Survivin was found
+					to be closely related with COX-2 in primary pterygium, suggesting an
+					antiapoptotic mechanism<xref ref-type="bibr" rid="B44">44</xref>.</p>
+				<p><italic>Bcl-2</italic> is the founding member of the <italic>Bcl-2</italic>
+					family of apoptosis regulatory proteins, which can induce or inhibit apoptosis.
+					It is encoded by the <italic>Bcl-2</italic> gene in humans<xref ref-type="bibr"
+						rid="B45">45</xref><sup>,</sup><xref ref-type="bibr" rid="B46">46</xref>.
+						<italic>Bcl-2</italic> expression was noted in the basal epithelial layer of
+					all pterygium epithelial cells, whereas the normal conjunctiva showed no
+					evidence of the protein<xref ref-type="bibr" rid="B39">39</xref>. Decreased
+					miR-122 expression in the pterygium can result in cell apoptosis abnormalities
+					due to its regulation of <italic>Bcl-w</italic> expression, also a gene of the
+						<italic>Bcl-2</italic> family, anti-apoptotic, and subsequently contribute
+					to the development of pterygium<xref ref-type="bibr" rid="B47">47</xref>.</p>
+				<p>Rapamycin complex 1 (mTORC1) is a central regulator of cell growth,
+					proliferation, protein synthesis, autophagy, and transcription. The role of
+					mTORC1 is to activate the protein translation. mTOR signaling is highly
+					activated; therefore, aberrant apoptosis and cell proliferation were observed in
+					pterygium samples. Activation of mTORC1 has been shown to inhibit apoptosis in
+					pterygium by regulating <italic>Beclin-1</italic>-dependent autophagy by
+					targeting <italic>Bcl-2</italic>. mTORC1 also negatively regulates the
+					fibroblast growth factor receptor 3 (FGFR3) through the inhibition of
+						<italic>p73</italic>, thereby stimulating cell proliferation in pterygium.
+					This demonstrates that mTORC1 signaling is highly activated in pterygium and
+					provides new pathways on its pathogenesis and progression<xref ref-type="bibr"
+						rid="B48">48</xref>.</p>
+			</sec>
+			<sec>
+				<title>Cell adhesion molecules</title>
+				<p>Cell adhesion molecules play an important role in various physiological and
+					pathological phenomena. These proteins are located on the cell surface and are
+					intrinsically involved in cell binding and other extracellular matrix related to
+					cell adhesion, including selectin, and integrin<xref ref-type="bibr" rid="B49"
+						>49</xref>. The expression of intercellular adhesion molecule-1 (ICAM-1) is
+					found to be present in pterygium and absent in the epithelium of a normal
+						conjunctiva<xref ref-type="bibr" rid="B50">50</xref>. E-cadherin and
+					beta-catenin have also been suggested to be concentrated in the pterygium tissue
+					and are possibly involved in the epithelial proliferation and adhesion<xref
+						ref-type="bibr" rid="B51">51</xref>.</p>
+			</sec>
+			<sec>
+				<title>Proliferation-related proteins</title>
+				<p>Proliferation-related proteins such as Ki-67, cyclin D1, and nuclear
+					proliferation antigen play a key role in the cell cycle. Ki-67 is an important
+					marker of cell proliferation. An abnormal expression of ki-67 was found in
+					pterygium samples when compared to a normal conjunctiva<xref ref-type="bibr"
+						rid="B52">52</xref>. Proliferating cell nuclear antigen (PCNA) is a nuclear
+					nonhistone protein necessary for DNA synthesis, and its expression may be used
+					as a marker of cell proliferation. The expression of PCNA was significantly
+					higher in pterygium than that in a normal conjunctiva<xref ref-type="bibr"
+						rid="B53">53</xref>. Cyclin D1 is a well-known cell cycle control gene that
+					promotes cell cycle progression. A study found that PCNA and cyclin D1 were
+					overexpressed in the limbal part of pterygium epithelial cells as compared with
+					normal conjunctiva samples, which might lead to hyperproliferation of epithelial
+						cells<xref ref-type="bibr" rid="B54">54</xref>. Cyclin D1 protein expression
+					in fleshy pterygium was found to be significantly higher than that in the
+					atrophic ones. Another study indicated that b-catenin expressed in the
+					nuclei/cytoplasm could increase cyclin D1 protein expression, which favors the
+					proliferation of pterygium cells<xref ref-type="bibr" rid="B55">55</xref>.</p>
+			</sec>
+			<sec>
+				<title>Heat shock proteins</title>
+				<p>Heat shock proteins (HSP) are a protein family produced by cells in response to
+					exposure to stressful conditions. They were first described in relation to heat
+					shock, but are recently known to be expressed during other stresses, including
+					exposure to cold temperatures, UV light, and during wound healing or tissue
+						remodeling<xref ref-type="bibr" rid="B52">52</xref>. The expression of HSPs,
+					i.e., <italic>Hsp27</italic>, Hsp70, and Hsp90, and hypoxia-inducible
+					factor-1&#x03B1; (HIF-1&#x03B1;) were increased in pterygium. The expression of
+					Hsp27 was detected in the epithelial, endothelial, and vascular smooth muscle
+					cells in pterygium, but only in the epithelium in normal conjunctiva<xref
+						ref-type="bibr" rid="B56">56</xref>. Changes in HIF-1&#x03B1; and HSP levels
+					in pterygium are believed to represent an adaptive process for cell survival
+					under stressful conditions<xref ref-type="bibr" rid="B57">57</xref>.</p>
+			</sec>
+			<sec>
+				<title>Tight junction proteins</title>
+				<p>Tight junction proteins represent a form of cell-to-cell adhesion in the
+					epithelial or endothelial cell layers, forming continuous seals around the cells
+					and also serving as a physical barrier to prevent solutes and water from passing
+					freely through the paracellular space. Claudin family proteins are an important
+					part of this functional and structural barrier and dysregulation on its
+					expression may result in various diseases including cancer<xref ref-type="bibr"
+						rid="B58">58</xref>. In normal cornea and conjunctiva, claudin-1 and
+					claudin-4 positivity were demonstrated immunohistochemically<xref
+						ref-type="bibr" rid="B59">59</xref>.</p>
+				<p>Claudins are indispensable proteins for the formation and maintenance of tight
+					junctions. A strong immunohistochemical expression of claudin-1 was found in
+					epithelium conjunctiva samples, whereas its expression in the pterygium samples
+					was low. The significant decrease in claudin-1 expression in the pterygium
+					compared to the normal conjunctiva seems to be involved in the pathogenesis of
+						pterygium<xref ref-type="bibr" rid="B60">60</xref>.</p>
+			</sec>
+			<sec>
+				<title>Extracellular matrix proteins</title>
+				<p>The extracellular matrix (ECM) is a collection of ex tracellular molecules
+					secreted by support cells that provide structural and biochemical support to the
+					surrounding cells<xref ref-type="bibr" rid="B61">61</xref>.</p>
+				<p>The aberrant expression of extracellular matrix proteins is believed to may be
+					directly associated with the proliferative growth of pterygium, because it is a
+					fi brovascular tissue characterized by an excessive deposition of extracellular
+					matrix and vascular growth. The extracellular matrix proteins contain keratin,
+					elastin, collagen, and fibrin, among others. K8, K16, K14, and AE3 have been
+					known to be present throughout the thickness in the pterygium epithelium but are
+					absent in the normal conjunctiva<xref ref-type="bibr" rid="B62">62</xref>. In
+					fact, pterygium samples showed a higher mRNA level and tropoelastin expression
+					than the conjunctival tissue. Type II collagen expression was positive only in
+					pterygium, whereas collagen types I, III, and IV were detected in both the
+					pterygium and normal conjunctiva<xref ref-type="bibr" rid="B63">63</xref>.</p>
+			</sec>
+			<sec>
+				<title>Matrix metalloproteinases and tissue inhibitors of metalloproteinases</title>
+				<p>Matrix metalloproteinases (MMPs), also known as ma trixins, hydrolyze components
+					of the extracellular matrix. These proteinases play a central role in several
+					biological processes, such as embryogenesis, normal tissue remodeling, wound
+					healing, and angiogenesis, and in diseases such as atheroma, arthritis, cancer,
+					and tissue ulceration<xref ref-type="bibr" rid="B64">64</xref>. MMPs are a
+					multigene family of &gt;25 secreted and cell surface enzymes that process or de
+					grade various extracellular matrices<xref ref-type="bibr" rid="B65">65</xref>,
+					which can be di vided into five subgroups based on substrate preference:
+					collagenases (MMP-1, MMP-8, MMP-13), gelatinases (MMP-2, MMP-9), stromelysins
+					(MMP-3, MMP-10), mem brane-associated MMPs (MT1-MMP, MT2-MMP), and others (e.g.,
+					MMP-12, MMP-19, MMP-20). Tissue inhibitors of metalloproteinases (TIMPs) bind to
+					and prevent the activities of most MMPs. The relationship between pterygium and
+					these two groups of proteins in the pathogenesis of pterygium has been
+						studied<xref ref-type="bibr" rid="B39">39</xref>.</p>
+				<p>MMP-1, MMP-2, MMP-3, TIMP-1, and TIMP-3 were detected in greater amounts in
+					pterygium tissues, epithelial cells, and fibroblasts as compared to normal
+						conjunctiva<xref ref-type="bibr" rid="B66">66</xref><sup>,</sup><xref
+						ref-type="bibr" rid="B67">67</xref>. MMP-3 was positively regulated and
+					located in the pterygium epithelium, which may help explain the various
+					pterygium phenotypes<xref ref-type="bibr" rid="B68">68</xref>. A study showed
+					that cyclosporin A can reduce MMP-3 and MMP-13 expressions in the pterygium
+					fibroblast culture<xref ref-type="bibr" rid="B69">69</xref>.</p>
+				<p>MMP and TIMP expressions vary at the different stages of pterygium. The balance
+					break between MMPs and TIMPs may be considered to be responsible for the
+					progression or recurrence of pterygium<xref ref-type="bibr" rid="B39"
+					>39</xref>.</p>
+			</sec>
+			<sec>
+				<title>ILs</title>
+				<p>ILs are a group of cytokines, secreted proteins, and signal molecules first seen
+					to be expressed by the white blood cells (leukocytes). These cells play vital
+					roles in the inflammation process; thus, ILs can be closely related to
+						pterygium<xref ref-type="bibr" rid="B66">66</xref>. </p>
+				<p>The expression of IL-1&#x03B1;, IL-1b RA, and IL-1b precursor proteins in primary
+					pterygium and normal conjunctival epithelium were detected via
+					immunofluorescence. Enhanced levels of IL-1 family proteins were present in
+					pterygium only. Likewise, IL-1&#x03B1; was found to be highly expressed not only
+					in primary but also in recurrent pterygium<xref ref-type="bibr" rid="B67"
+						>67</xref>.</p>
+				<p>IL-6 and IL-8 were strongly expressed in the pterygium epithelium as compared to
+					the normal cornea, conjunctiva, and limbus. In addition, IL-6 and IL-8 proteins
+					were significantly elevated in pterygium treated with UVB, suggesting that UVB
+					could induce the secretion of these two ILs<xref ref-type="bibr" rid="B70"
+						>70</xref>. IL-8 can also induce corneal vascularization directly<xref
+						ref-type="bibr" rid="B71">71</xref>. IL-10 had also been reported to be
+					expressed more in pterygium than that in the normal conjunctiva. Recently, IL-17
+					was found to be upregulated in the ocular surface in inflammatory pathologies,
+					such as pterygium<xref ref-type="bibr" rid="B72">72</xref>.</p>
+			</sec>
+			<sec>
+				<title>Growth factors</title>
+				<p>A growth factor is a natural substance capable of sti mulating cellular growth,
+					proliferation, healing, and cellular differentiation. They are important in the
+					regula tion of various cellular processes, such as mitosis<xref ref-type="bibr"
+						rid="B73">73</xref>. </p>
+				<p>Numerous growth factors are thought to have a role in pterygium pathogenesis,
+					such as the vascular endothelial growth factor (VEGF), transforming growth
+					factor-beta (TGF-b), basic fibroblast growth factor (bFGF), insulin-like growth
+					factor, nervous growth factor, and connective tissue growth factor (CTGF)<xref
+						ref-type="bibr" rid="B7">7</xref>. The VEGF family has been extensively
+					investigated in ophthalmology, because of its role in pathological angiogenesis
+					and in increasing the vascular permeability in ocular diseases, such as
+					pterygium and retinal diseases<xref ref-type="bibr" rid="B74">74</xref>. </p>
+				<p>Increased expression of VEGF leads to angiogenesis and lymphangiogenesis, which
+					may influence the normal metabolism of the connective cells and promote vascular
+					growth. When compared to the normal conjunctiva, pterygium showed higher VEGF
+						levels<xref ref-type="bibr" rid="B75">75</xref><sup>,</sup><xref
+						ref-type="bibr" rid="B76">76</xref>. TGF-b regulates various processes
+					common to tissue repair and disease, including fibroblast proliferation,
+					angiogenesis, synthesis, and degradation of extracellular matrix proteins<xref
+						ref-type="bibr" rid="B77">77</xref>. TGF-b1 and TGF-b2 were found to be
+					positively regulated, whereas transforming growth factor-beta receptor 1,2
+					(TGFR-b1, b2) was negatively regulated in pterygium<xref ref-type="bibr"
+						rid="B78">78</xref><sup>,</sup><xref ref-type="bibr" rid="B79"
+					>79</xref>.</p>
+				<p>Anti-VEGF drugs such as ranibizumab and bevacizumab have been widely used for the
+					treatment and control of ocular diseases associated with vascular
+						proliferation<xref ref-type="bibr" rid="B80">80</xref>. Although some
+					studies suggest the use of anti-VEGF as an adjuvant therapy for surgery, studies
+					conducted to characterize its use for the treatment of pterygium are
+						lacking<xref ref-type="bibr" rid="B81">81</xref>. </p>
+				<p>Understanding the etiopathogenesis and most relevant factors involved in
+					pterygium may allow advances on strategies to prevent its onset and progression,
+					which may even prevent surgical procedures in the future. Although various
+					studies have already been conducted, important genes and proteins have probably
+					not yet been discovered. In this sense, performing additional research to better
+					understand the etiopathogenic mechanisms and, thus, promote more targeted and
+					effective treatment options, especially in recurrent cases, may be
+					interesting.</p>
+			</sec>
+		</sec>
+	</body>
+	<back>
+		<fn-group>
+			<fn fn-type="financial-disclosure">
+				<p><bold>Funding:</bold> This study received no specific financial support.</p>
+			</fn>
+		</fn-group>
+		<ref-list>
+			<title>REFERENCES</title>
+			<ref id="B1">
+				<label>1</label>
+				<mixed-citation>Chui J, Coroneo MT, Tat LT, Crouch R, Wakefield D, Di Girolamo N.
+					Ophthalmic pterygium: a stem cell disorder with premalignant features. Am J
+					Pathol. 2011;178(2):817-27.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chui</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Coroneo</surname>
+							<given-names>MT</given-names>
+						</name>
+						<name>
+							<surname>Tat</surname>
+							<given-names>LT</given-names>
+						</name>
+						<name>
+							<surname>Crouch</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Wakefield</surname>
+							<given-names>D</given-names>
+						</name>
+						<name>
+							<surname>Di Girolamo</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<article-title>Ophthalmic pterygium: a stem cell disorder with premalignant
+						features</article-title>
+					<source>Am J Pathol</source>
+					<year>2011</year>
+					<volume>178</volume>
+					<issue>2</issue>
+					<fpage>817</fpage>
+					<lpage>827</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<label>2</label>
+				<mixed-citation>Di Girolamo N, Tedla N, Kumar RK, McCluskey P, Lloyd A, Coroneo MT,
+					et al. Culture and characterisation of epithelial cells from human pterygia
+					[abstract]. Br J Ophthalmol. 19991;83(9):1077 LP-1082.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Di Girolamo</surname>
+							<given-names>N</given-names>
+						</name>
+						<name>
+							<surname>Tedla</surname>
+							<given-names>N</given-names>
+						</name>
+						<name>
+							<surname>Kumar</surname>
+							<given-names>RK</given-names>
+						</name>
+						<name>
+							<surname>McCluskey</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Lloyd</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Coroneo</surname>
+							<given-names>MT</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Culture and characterisation of epithelial cells from human
+						pterygia [abstract]</article-title>
+					<source>Br J Ophthalmol</source>
+					<month>10</month>
+					<year>19991</year>
+					<volume>83</volume>
+					<issue>9</issue>
+					<fpage>1077 LP</fpage>
+					<lpage>1071082</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<label>3</label>
+				<mixed-citation>Gazzard G, Saw SM, Farook M, Koh D, Widjaja D, Chia SE, et al.
+					Pterygium in Indonesia: prevalence, severity and risk factors. Br J Ophthalmol.
+					2002;86(12):1341-6.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gazzard</surname>
+							<given-names>G</given-names>
+						</name>
+						<name>
+							<surname>Saw</surname>
+							<given-names>SM</given-names>
+						</name>
+						<name>
+							<surname>Farook</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Koh</surname>
+							<given-names>D</given-names>
+						</name>
+						<name>
+							<surname>Widjaja</surname>
+							<given-names>D</given-names>
+						</name>
+						<name>
+							<surname>Chia</surname>
+							<given-names>SE</given-names>
+						</name>
+					</person-group>
+					<article-title>Pterygium in Indonesia: prevalence, severity and risk
+						factors</article-title>
+					<source>Br J Ophthalmol</source>
+					<year>2002</year>
+					<volume>86</volume>
+					<issue>12</issue>
+					<fpage>1341</fpage>
+					<lpage>1346</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<label>4</label>
+				<mixed-citation>Sul S, Korkmaz S, Novruzlu S. Seasonal effects on pterygium surgery
+					outcome: implications for the role of sunlight exposure. Cornea.
+					2014;33(5):504-6.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sul</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Korkmaz</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Novruzlu</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<article-title>Seasonal effects on pterygium surgery outcome: implications for
+						the role of sunlight exposure</article-title>
+					<source>Cornea</source>
+					<year>2014</year>
+					<volume>33</volume>
+					<issue>5</issue>
+					<fpage>504</fpage>
+					<lpage>506</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<label>5</label>
+				<mixed-citation>Chui J, Girolamo N Di, Wakefield D, Coroneo MT. The pathogenesis of
+					pterygium: current concepts and their therapeutic implications. Ocul Surf.
+					2008;6(1):24-43.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chui</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Girolamo Di</surname>
+							<given-names>N</given-names>
+						</name>
+						<name>
+							<surname>Wakefield</surname>
+							<given-names>D</given-names>
+						</name>
+						<name>
+							<surname>Coroneo</surname>
+							<given-names>MT</given-names>
+						</name>
+					</person-group>
+					<article-title>The pathogenesis of pterygium: current concepts and their
+						therapeutic implications</article-title>
+					<source>Ocul Surf</source>
+					<year>2008</year>
+					<volume>6</volume>
+					<issue>1</issue>
+					<fpage>24</fpage>
+					<lpage>43</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<label>6</label>
+				<mixed-citation>Hill JC, Maske R. Pathogenesis of pterygium. Eye (Lond). 1989;3(Pt
+					2): 218-26.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hill</surname>
+							<given-names>JC</given-names>
+						</name>
+						<name>
+							<surname>Maske</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<article-title>Pathogenesis of pterygium</article-title>
+					<source>Eye (Lond)</source>
+					<year>1989</year>
+					<volume>3</volume>
+					<issue>2</issue>
+					<fpage>218</fpage>
+					<lpage>226</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<label>7</label>
+				<mixed-citation>Di Girolamo N, Chui J, Coroneo MT, Wakefield D. Pathogenesis of
+					pterygia: role of cytokines, growth factors, and matrix metalloproteinases. Prog
+					Retin Eye Res. 2004;23(2):195-228.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Di Girolamo</surname>
+							<given-names>N</given-names>
+						</name>
+						<name>
+							<surname>Chui</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Coroneo</surname>
+							<given-names>MT</given-names>
+						</name>
+						<name>
+							<surname>Wakefield</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<article-title>Pathogenesis of pterygia: role of cytokines, growth factors, and
+						matrix metalloproteinases</article-title>
+					<source>Prog Retin Eye Res</source>
+					<year>2004</year>
+					<volume>23</volume>
+					<issue>2</issue>
+					<fpage>195</fpage>
+					<lpage>228</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<label>8</label>
+				<mixed-citation>Pyo EY, Mun GH, Yoon KC. The prevalence and risk factors for
+					pterygium in South Korea: the Korea National Health and Nutrition Examination
+					Survey (KNHANES) 2009-2010. Epidemiol Health. 2016;38:e2016015.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pyo</surname>
+							<given-names>EY</given-names>
+						</name>
+						<name>
+							<surname>Mun</surname>
+							<given-names>GH</given-names>
+						</name>
+						<name>
+							<surname>Yoon</surname>
+							<given-names>KC</given-names>
+						</name>
+					</person-group>
+					<article-title>The prevalence and risk factors for pterygium in South Korea the
+						Korea: National Health and Nutrition Examination Survey (KNHANES)
+						2009-2010</article-title>
+					<source>Epidemiol Health</source>
+					<year>2016</year>
+					<volume>38</volume>
+					<elocation-id>e2016015</elocation-id>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<label>9</label>
+				<mixed-citation>Song P, Chang X, Wang M, An L. Variations of pterygium prevalence by
+					age, gender and geographic characteristics in China: A systematic review and
+					meta-analysis. PLoS One. 2017;12(3):e0174587.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Song</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Chang</surname>
+							<given-names>X</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>An</surname>
+							<given-names>L</given-names>
+						</name>
+					</person-group>
+					<article-title>Variations of pterygium prevalence by age, gender and geographic
+						characteristics in China: A systematic review and
+						meta-analysis</article-title>
+					<source>PLoS One</source>
+					<year>2017</year>
+					<volume>12</volume>
+					<issue>3</issue>
+					<elocation-id>e0174587</elocation-id>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<label>10</label>
+				<mixed-citation>West S, Muñoz B. Prevalence of pterygium in Latinos: proyecto VER.
+					Br J Ophthalmol. 2009;93(10):1287-90.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>West</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Muñoz</surname>
+							<given-names>B</given-names>
+						</name>
+					</person-group>
+					<article-title>Prevalence of pterygium in Latinos: proyecto VER</article-title>
+					<source>Br J Ophthalmol</source>
+					<year>2009</year>
+					<volume>93</volume>
+					<issue>10</issue>
+					<fpage>1287</fpage>
+					<lpage>1290</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<label>11</label>
+				<mixed-citation>Anbesse DH, Kassa T, Kefyalew B, Tasew A, Atnie A, Desta B.
+					Prevalence and associated factors of pterygium among adults living in Gondar
+					city, Northwest Ethiopia. PLoS One. 2017;12(3):e0174450.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Anbesse</surname>
+							<given-names>DH</given-names>
+						</name>
+						<name>
+							<surname>Kassa</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Kefyalew</surname>
+							<given-names>B</given-names>
+						</name>
+						<name>
+							<surname>Tasew</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Atnie</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Desta</surname>
+							<given-names>B</given-names>
+						</name>
+					</person-group>
+					<article-title>Prevalence and associated factors of pterygium among adults
+						living in Gondar city, Northwest Ethiopia</article-title>
+					<source>PLoS One</source>
+					<year>2017</year>
+					<volume>12</volume>
+					<issue>3</issue>
+					<elocation-id>e0174450</elocation-id>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<label>12</label>
+				<mixed-citation>Ribeiro LA, Ribeiro LF, Castro PR, da Silva FD, Ribeiro VM, Portes
+					AJ, et al. Characteristics and prevalence of pterygium in small communities
+					along the Solimões and Japurá rivers of the Brazilian Amazon Rainforest. Rev
+					Bras Oftalmol. 2011;70(6):358-62.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ribeiro</surname>
+							<given-names>LA</given-names>
+						</name>
+						<name>
+							<surname>Ribeiro</surname>
+							<given-names>LF</given-names>
+						</name>
+						<name>
+							<surname>Castro</surname>
+							<given-names>PR</given-names>
+						</name>
+						<name>
+							<surname>da Silva</surname>
+							<given-names>FD</given-names>
+						</name>
+						<name>
+							<surname>Ribeiro</surname>
+							<given-names>VM</given-names>
+						</name>
+						<name>
+							<surname>Portes</surname>
+							<given-names>AJ</given-names>
+						</name>
+					</person-group>
+					<article-title>Characteristics and prevalence of pterygium in small communities
+						along the Solimões and Japurá rivers of the Brazilian Amazon
+						Rainforest</article-title>
+					<source>Rev Bras Oftalmol</source>
+					<year>2011</year>
+					<volume>70</volume>
+					<issue>6</issue>
+					<fpage>358</fpage>
+					<lpage>362</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<label>13</label>
+				<mixed-citation>Paula JS, Thorn F, Cruz AA. Prevalence of pterygium and cataract in
+					indigenous populations of the Brazilian Amazon rain forest. Eye (Lond).
+					2006;20(5):533-6.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Paula</surname>
+							<given-names>JS</given-names>
+						</name>
+						<name>
+							<surname>Thorn</surname>
+							<given-names>F</given-names>
+						</name>
+						<name>
+							<surname>Cruz</surname>
+							<given-names>AA</given-names>
+						</name>
+					</person-group>
+					<article-title>Prevalence of pterygium and cataract in indigenous populations of
+						the Brazilian Amazon rain forest</article-title>
+					<source>Eye (Lond)</source>
+					<year>2006</year>
+					<volume>20</volume>
+					<issue>5</issue>
+					<fpage>533</fpage>
+					<lpage>536</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<label>14</label>
+				<mixed-citation>Shiratori CA, Barros JC. Lourenço R. M, Padovani CR, Cordeiro R,
+					Schellini SA [Prevalence of pterygium in Botucatu city - São Paulo State,
+					Brazil]. Arq Bras Oftalmol. 2010;73(4):343-5. Portuguese.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Shiratori</surname>
+							<given-names>CA</given-names>
+						</name>Barros JC. Lourenço R. M<name>
+							<surname>Padovani</surname>
+							<given-names>CR</given-names>
+						</name>
+						<name>
+							<surname>Cordeiro</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Schellini</surname>
+							<given-names>SA</given-names>
+						</name>
+					</person-group>
+					<article-title>[Prevalence of pterygium in Botucatu city - São Paulo State,
+						Brazil]</article-title>
+					<source>Arq Bras Oftalmol</source>
+					<year>2010</year>
+					<volume>73</volume>
+					<issue>4</issue>
+					<fpage>343</fpage>
+					<lpage>345</lpage>
+					<comment>Portuguese</comment>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<label>15</label>
+				<mixed-citation>Liu L, Wu J, Geng J, Yuan Z, Huang D. Geographical prevalence and
+					risk factors for pterygium: a systematic review and meta-analysis. BMJ Open.
+					2013;3(11):e003787.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Liu</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Wu</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Geng</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Yuan</surname>
+							<given-names>Z</given-names>
+						</name>
+						<name>
+							<surname>Huang</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<article-title>Geographical prevalence and risk factors for pterygium: a
+						systematic review and meta-analysis</article-title>
+					<source>BMJ Open</source>
+					<year>2013</year>
+					<volume>3</volume>
+					<issue>11</issue>
+					<elocation-id>e003787</elocation-id>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<label>16</label>
+				<mixed-citation>Rim TH, Kang MJ, Choi M, Seo KY, Kim SS. The incidence and
+					prevalence of pterygium in South Korea: A 10-year population-based Korean cohort
+					study. PLoS One. 2017;12(3):e0171954.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rim</surname>
+							<given-names>TH</given-names>
+						</name>
+						<name>
+							<surname>Kang</surname>
+							<given-names>MJ</given-names>
+						</name>
+						<name>
+							<surname>Choi</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Seo</surname>
+							<given-names>KY</given-names>
+						</name>
+						<name>
+							<surname>Kim</surname>
+							<given-names>SS</given-names>
+						</name>
+					</person-group>
+					<article-title>The incidence and prevalence of pterygium in South Korea: A
+						10-year population-based Korean cohort study</article-title>
+					<source>PLoS One</source>
+					<year>2017</year>
+					<volume>12</volume>
+					<issue>3</issue>
+					<elocation-id>e0171954</elocation-id>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<label>17</label>
+				<mixed-citation>Viso E, Gude F, Rodríguez-Ares MT. Prevalence of pinguecula and
+					pterygium in a general population in Spain. Eye (Lond). 2011;
+					25(3):350-7.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Viso</surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>Gude</surname>
+							<given-names>F</given-names>
+						</name>
+						<name>
+							<surname>Rodríguez-Ares</surname>
+							<given-names>MT</given-names>
+						</name>
+					</person-group>
+					<article-title>Prevalence of pinguecula and pterygium in a general population in
+						Spain</article-title>
+					<source>Eye (Lond)</source>
+					<year>2011</year>
+					<volume>25</volume>
+					<issue>3</issue>
+					<fpage>350</fpage>
+					<lpage>357</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<label>18</label>
+				<mixed-citation>Shrestha S, Shrestha SM. Comparative study of prevalence of
+					pterygium at high altitude and Kathmandu Valley. J Nepal Health Res Counc.
+					2014;12(28):187-90.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Shrestha</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Shrestha</surname>
+							<given-names>SM</given-names>
+						</name>
+					</person-group>
+					<article-title>Comparative study of prevalence of pterygium at high altitude and
+						Kathmandu Valley</article-title>
+					<source>J Nepal Health Res Counc</source>
+					<year>2014</year>
+					<volume>12</volume>
+					<issue>28</issue>
+					<fpage>187</fpage>
+					<lpage>190</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<label>19</label>
+				<mixed-citation>Schellini SA, dos Reis Veloso CE, Lopes W, Padovani CR, Padovani CR.
+					Características de portadores de pterígio na região de Botucatu. Arq Bras
+					Oftalmol. 2005;68(3):291-4.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Schellini</surname>
+							<given-names>SA</given-names>
+						</name>
+						<name>
+							<surname>dos Reis Veloso</surname>
+							<given-names>CE</given-names>
+						</name>
+						<name>
+							<surname>Lopes</surname>
+							<given-names>W</given-names>
+						</name>
+						<name>
+							<surname>Padovani</surname>
+							<given-names>CR</given-names>
+						</name>
+						<name>
+							<surname>Padovani</surname>
+							<given-names>CR</given-names>
+						</name>
+					</person-group>
+					<article-title>Características de portadores de pterígio na região de
+						Botucatu</article-title>
+					<source>Arq Bras Oftalmol</source>
+					<year>2005</year>
+					<volume>68</volume>
+					<issue>3</issue>
+					<fpage>291</fpage>
+					<lpage>294</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<label>20</label>
+				<mixed-citation>Patil MS, Bawir DN, Mandlik K, Kataria I. A Study of limbal
+					conjunctival autograft transplantation in primary pterygium. MVP J Med Sci.
+					2015;2(2):85.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Patil</surname>
+							<given-names>MS</given-names>
+						</name>
+						<name>
+							<surname>Bawir</surname>
+							<given-names>DN</given-names>
+						</name>
+						<name>
+							<surname>Mandlik</surname>
+							<given-names>K</given-names>
+						</name>
+						<name>
+							<surname>Kataria</surname>
+							<given-names>I</given-names>
+						</name>
+					</person-group>
+					<article-title>A Study of limbal conjunctival autograft transplantation in
+						primary pterygium</article-title>
+					<source>MVP J Med Sci</source>
+					<year>2015</year>
+					<volume>2</volume>
+					<issue>2</issue>
+					<fpage>85</fpage>
+					<lpage>85</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<label>21</label>
+				<mixed-citation>Miyata K, Minami K, Otani A, Tokunaga T, Tokuda S, Amano S. Proposal
+					for a Novel Severity Grading System for Pterygia Based on Corneal Topographic
+					Data. Cornea. 2017;36(7):834-40.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Miyata</surname>
+							<given-names>K</given-names>
+						</name>
+						<name>
+							<surname>Minami</surname>
+							<given-names>K</given-names>
+						</name>
+						<name>
+							<surname>Otani</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Tokunaga</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Tokuda</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Amano</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<article-title>Proposal for a Novel Severity Grading System for Pterygia Based
+						on Corneal Topographic Data</article-title>
+					<source>Cornea</source>
+					<year>2017</year>
+					<volume>36</volume>
+					<issue>7</issue>
+					<fpage>834</fpage>
+					<lpage>840</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<label>22</label>
+				<mixed-citation>Kareem AA, Farhood QK, Alhammami HA. The use of antimetabolites as
+					adjunctive therapy in the surgical treatment of pterygium. Clin Ophthalmol.
+					2012;6:1849-54.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kareem</surname>
+							<given-names>AA</given-names>
+						</name>
+						<name>
+							<surname>Farhood</surname>
+							<given-names>QK</given-names>
+						</name>
+						<name>
+							<surname>Alhammami</surname>
+							<given-names>HA</given-names>
+						</name>
+					</person-group>
+					<article-title>The use of antimetabolites as adjunctive therapy in the surgical
+						treatment of pterygium</article-title>
+					<source>Clin Ophthalmol</source>
+					<year>2012</year>
+					<volume>6</volume>
+					<fpage>1849</fpage>
+					<lpage>1854</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<label>23</label>
+				<mixed-citation>Sánchez-Thorin JC, Rocha G, Yelin JB. Meta-analysis on the
+					recurrence rates after bare sclera resection with and without mitomycin C use
+					and conjunctival autograft placement in surgery for primary pterygium. Br J
+					Ophthalmol. 1998;82(6):661-5.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sánchez-Thorin</surname>
+							<given-names>JC</given-names>
+						</name>
+						<name>
+							<surname>Rocha</surname>
+							<given-names>G</given-names>
+						</name>
+						<name>
+							<surname>Yelin</surname>
+							<given-names>JB</given-names>
+						</name>
+					</person-group>
+					<article-title>Meta-analysis on the recurrence rates after bare sclera resection
+						with and without mitomycin C use and conjunctival autograft placement in
+						surgery for primary pterygium</article-title>
+					<source>Br J Ophthalmol</source>
+					<year>1998</year>
+					<volume>82</volume>
+					<issue>6</issue>
+					<fpage>661</fpage>
+					<lpage>665</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<label>24</label>
+				<mixed-citation>Fonseca EC, Rocha EM, Arruda GV. Comparison among adjuvant
+					treatments for primary pterygium: a network meta-analysis. Br J Ophthalmol.
+					2018;102(6):748-56</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fonseca</surname>
+							<given-names>EC</given-names>
+						</name>
+						<name>
+							<surname>Rocha</surname>
+							<given-names>EM</given-names>
+						</name>
+						<name>
+							<surname>Arruda</surname>
+							<given-names>GV</given-names>
+						</name>
+					</person-group>
+					<article-title>Comparison among adjuvant treatments for primary pterygium: a
+						network meta-analysis</article-title>
+					<source>Br J Ophthalmol</source>
+					<year>2018</year>
+					<volume>102</volume>
+					<issue>6</issue>
+					<fpage>748</fpage>
+					<lpage>756</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<label>25</label>
+				<mixed-citation>Zhou WP, Zhu YF, Zhang B, Qiu WY, Yao YF. The role of ultraviolet
+					radiation in the pathogenesis of pterygia. Mol Med Rep. 2016;14(1):3-15.
+					Review.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zhou</surname>
+							<given-names>WP</given-names>
+						</name>
+						<name>
+							<surname>Zhu</surname>
+							<given-names>YF</given-names>
+						</name>
+						<name>
+							<surname>Zhang</surname>
+							<given-names>B</given-names>
+						</name>
+						<name>
+							<surname>Qiu</surname>
+							<given-names>WY</given-names>
+						</name>
+						<name>
+							<surname>Yao</surname>
+							<given-names>YF.</given-names>
+						</name>
+					</person-group>
+					<chapter-title>The role of ultraviolet radiation in the pathogenesis of
+						pterygia</chapter-title>
+					<source>Mol Med Rep</source>
+					<year>2016</year>
+					<volume>14</volume>
+					<issue>1</issue>
+					<fpage>3</fpage>
+					<lpage>15</lpage>
+					<comment>Review</comment>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<label>26</label>
+				<mixed-citation>Cooper SJ, Bowden GT. Ultraviolet B regulation of transcription
+					factor families: roles of nuclear factor-kappa B (NF-kappaB) and activator
+					protein-1 (AP-1) in UVB-induced skin carcinogenesis. Curr Cancer Drug Targets.
+					2007;7(4):325-34.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cooper</surname>
+							<given-names>SJ</given-names>
+						</name>
+						<name>
+							<surname>Bowden</surname>
+							<given-names>GT</given-names>
+						</name>
+					</person-group>
+					<article-title>Ultraviolet B regulation of transcription factor families: roles
+						of nuclear factor-kappa B (NF-kappaB) and activator protein-1 (AP-1) in
+						UVB-induced skin carcinogenesis</article-title>
+					<source>Curr Cancer Drug Targets</source>
+					<year>2007</year>
+					<volume>7</volume>
+					<issue>4</issue>
+					<fpage>325</fpage>
+					<lpage>334</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<label>27</label>
+				<mixed-citation>Kau HC, Tsai CC, Lee CF, Kao SC, Hsu WM, Liu JH, et al. Increased
+					oxidative DNA damage, 8-hydroxydeoxy- guanosine, in human pterygium. Eye (Lond).
+					2006;20(7):826-31.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kau</surname>
+							<given-names>HC</given-names>
+						</name>
+						<name>
+							<surname>Tsai</surname>
+							<given-names>CC</given-names>
+						</name>
+						<name>
+							<surname>Lee</surname>
+							<given-names>CF</given-names>
+						</name>
+						<name>
+							<surname>Kao</surname>
+							<given-names>SC</given-names>
+						</name>
+						<name>
+							<surname>Hsu</surname>
+							<given-names>WM</given-names>
+						</name>
+						<name>
+							<surname>Liu</surname>
+							<given-names>JH</given-names>
+						</name>
+					</person-group>
+					<article-title>Increased oxidative DNA damage, 8-hydroxydeoxy- guanosine, in
+						human pterygium</article-title>
+					<source>Eye (Lond)</source>
+					<year>2006</year>
+					<volume>20</volume>
+					<issue>7</issue>
+					<fpage>826</fpage>
+					<lpage>831</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<label>28</label>
+				<mixed-citation>Cimpean AM, Sava MP, Raica M. DNA damage in human pterygium:
+					one-shot multiple targets. Mol Vis. 2013;19:348-56.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cimpean</surname>
+							<given-names>AM</given-names>
+						</name>
+						<name>
+							<surname>Sava</surname>
+							<given-names>MP</given-names>
+						</name>
+						<name>
+							<surname>Raica</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<article-title>DNA damage in human pterygium: one-shot multiple
+						targets</article-title>
+					<source>Mol Vis</source>
+					<year>2013</year>
+					<volume>19</volume>
+					<fpage>348</fpage>
+					<lpage>356</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<label>29</label>
+				<mixed-citation>Hou A, Lan W, Law KP, Khoo SC, Tin MQ, Lim YP, et al. Evaluation of
+					global differential gene and protein expression in primary Pterygium: S100A8 and
+					S100A9 as possible drivers of a signaling network. PLoS One.
+					2014;9(5):e97402.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hou</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Lan</surname>
+							<given-names>W</given-names>
+						</name>
+						<name>
+							<surname>Law</surname>
+							<given-names>KP</given-names>
+						</name>
+						<name>
+							<surname>Khoo</surname>
+							<given-names>SC</given-names>
+						</name>
+						<name>
+							<surname>Tin</surname>
+							<given-names>MQ</given-names>
+						</name>
+						<name>
+							<surname>Lim</surname>
+							<given-names>YP</given-names>
+						</name>
+					</person-group>
+					<article-title>Evaluation of global differential gene and protein expression in
+						primary Pterygium: S100A8 and S100A9 as possible drivers of a signaling
+						network</article-title>
+					<source>PLoS One</source>
+					<year>2014</year>
+					<volume>9</volume>
+					<issue>5</issue>
+					<elocation-id>e97402</elocation-id>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<label>30</label>
+				<mixed-citation>Chalkia AK, Spandidos DA, Detorakis ET. Viral involvement in the
+					pathogenesis and clinical features of ophthalmic pterygium. Int J Mol Med.
+					2013;32(3):539-43. Review.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chalkia</surname>
+							<given-names>AK</given-names>
+						</name>
+						<name>
+							<surname>Spandidos</surname>
+							<given-names>DA</given-names>
+						</name>
+						<name>
+							<surname>Detorakis</surname>
+							<given-names>ET.</given-names>
+						</name>
+					</person-group>
+					<chapter-title>Viral involvement in the pathogenesis and clinical features of
+						ophthalmic pterygium</chapter-title>
+					<source>Int J Mol Med</source>
+					<year>2013</year>
+					<volume>32</volume>
+					<issue>3</issue>
+					<fpage>539</fpage>
+					<lpage>543</lpage>
+					<comment>Review</comment>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<label>31</label>
+				<mixed-citation>Rodrigues FW, Arruda JT, Silva RE, Moura KK. TP53 gene expression,
+					codon 72 polymorphism and human papillomavirus DNA associated with pterygium.
+					Genet Mol Res. 2008;7(4):1251-8.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rodrigues</surname>
+							<given-names>FW</given-names>
+						</name>
+						<name>
+							<surname>Arruda</surname>
+							<given-names>JT</given-names>
+						</name>
+						<name>
+							<surname>Silva</surname>
+							<given-names>RE</given-names>
+						</name>
+						<name>
+							<surname>Moura</surname>
+							<given-names>KK</given-names>
+						</name>
+					</person-group>
+					<article-title>TP53 gene expression, codon 72 polymorphism and human
+						papillomavirus DNA associated with pterygium</article-title>
+					<source>Genet Mol Res</source>
+					<year>2008</year>
+					<volume>7</volume>
+					<issue>4</issue>
+					<fpage>1251</fpage>
+					<lpage>1258</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<label>32</label>
+				<mixed-citation>Tsai YY, Chang CC, Chiang CC, Yeh KT, Chen PL, Chang CH, et al. HPV
+					infection and p53 inactivation in pterygium. Mol Vis. 2009;
+					15:1092-7.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tsai</surname>
+							<given-names>YY</given-names>
+						</name>
+						<name>
+							<surname>Chang</surname>
+							<given-names>CC</given-names>
+						</name>
+						<name>
+							<surname>Chiang</surname>
+							<given-names>CC</given-names>
+						</name>
+						<name>
+							<surname>Yeh</surname>
+							<given-names>KT</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>PL</given-names>
+						</name>
+						<name>
+							<surname>Chang</surname>
+							<given-names>CH</given-names>
+						</name>
+					</person-group>
+					<article-title>HPV infection and p53 inactivation in pterygium</article-title>
+					<source>Mol Vis</source>
+					<year>2009</year>
+					<volume>15</volume>
+					<fpage>1092</fpage>
+					<lpage>1097</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<label>33</label>
+				<mixed-citation>Kelishadi M, Kelishadi M, Moradi A, Javid N, Bazouri M, Tabarraei A.
+					human adenoviruses role in ophthalmic pterygium formation. Jundishapur J
+					Microbiol. 2015;8(4):e16871.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kelishadi</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Kelishadi</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Moradi</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Javid</surname>
+							<given-names>N</given-names>
+						</name>
+						<name>
+							<surname>Bazouri</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Tabarraei</surname>
+							<given-names>A </given-names>
+						</name>
+					</person-group>
+					<article-title>human adenoviruses role in ophthalmic pterygium
+						formation</article-title>
+					<source>Jundishapur J Microbiol</source>
+					<year>2015</year>
+					<volume>8</volume>
+					<issue>4</issue>
+					<elocation-id>e16871</elocation-id>
+				</element-citation>
+			</ref>
+			<ref id="B34">
+				<label>34</label>
+				<mixed-citation>Livezeanu C, Craitoiu MM, Manescu R, Mocanu C, Craitoiu S.
+					Angiogenesis in the pathogenesis of pterygium. Rev Roum Morphol Embryol.
+					2011;52(3):837-44.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Livezeanu</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Craitoiu</surname>
+							<given-names>MM</given-names>
+						</name>
+						<name>
+							<surname>Manescu</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Mocanu</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Craitoiu</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<article-title>Angiogenesis in the pathogenesis of pterygium</article-title>
+					<source>Rev Roum Morphol Embryol</source>
+					<year>2011</year>
+					<volume>52</volume>
+					<issue>3</issue>
+					<fpage>837</fpage>
+					<lpage>844</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B35">
+				<label>35</label>
+				<mixed-citation>Young CH, Chiu YT, Shih TS, Lin WR, Chiang CC, Chou YE, et al.
+					E-cadherin promoter hypermethylation may contribute to protein inactivation in
+					pterygia. Mol Vis. 2010;16:1047-53.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Young</surname>
+							<given-names>CH</given-names>
+						</name>
+						<name>
+							<surname>Chiu</surname>
+							<given-names>YT</given-names>
+						</name>
+						<name>
+							<surname>Shih</surname>
+							<given-names>TS</given-names>
+						</name>
+						<name>
+							<surname>Lin</surname>
+							<given-names>WR</given-names>
+						</name>
+						<name>
+							<surname>Chiang</surname>
+							<given-names>CC</given-names>
+						</name>
+						<name>
+							<surname>Chou</surname>
+							<given-names>YE</given-names>
+						</name>
+					</person-group>
+					<article-title>E-cadherin promoter hypermethylation may contribute to protein
+						inactivation in pterygia</article-title>
+					<source>Mol Vis</source>
+					<year>2010</year>
+					<volume>16</volume>
+					<fpage>1047</fpage>
+					<lpage>1053</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B36">
+				<label>36</label>
+				<mixed-citation>Kim KW, Park SH, Kim JC. Fibroblast biology in pterygia. Exp Eye
+					Res. 2016;142:32-9.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kim</surname>
+							<given-names>KW</given-names>
+						</name>
+						<name>
+							<surname>Park</surname>
+							<given-names>SH</given-names>
+						</name>
+						<name>
+							<surname>Kim</surname>
+							<given-names>JC</given-names>
+						</name>
+					</person-group>
+					<article-title>Fibroblast biology in pterygia</article-title>
+					<source>Exp Eye Res</source>
+					<year>2016</year>
+					<volume>142</volume>
+					<fpage>32</fpage>
+					<lpage>39</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B37">
+				<label>37</label>
+				<mixed-citation>Weinstein O, Rosenthal G, Zirkin H, Monos T, Lifshitz T, Argov S.
+					Overexpression of p53 tumor suppressor gene in pterygia. Eye (Lond).
+					2002;16(5):619-21.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Weinstein</surname>
+							<given-names>O</given-names>
+						</name>
+						<name>
+							<surname>Rosenthal</surname>
+							<given-names>G</given-names>
+						</name>
+						<name>
+							<surname>Zirkin</surname>
+							<given-names>H</given-names>
+						</name>
+						<name>
+							<surname>Monos</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Lifshitz</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Argov</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<article-title>Overexpression of p53 tumor suppressor gene in
+						pterygia</article-title>
+					<source>Eye (Lond)</source>
+					<year>2002</year>
+					<volume>16</volume>
+					<issue>5</issue>
+					<fpage>619</fpage>
+					<lpage>621</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B38">
+				<label>38</label>
+				<mixed-citation>Tsai YY, Chang KC, Lin CL, Lee H, Tsai FJ, Cheng YW, et al. p53
+					Expression in pterygium by immunohistochemical analysis: a series report of 127
+					cases and review of the literature. Cornea. 2005;24(5):583-6.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tsai</surname>
+							<given-names>YY</given-names>
+						</name>
+						<name>
+							<surname>Chang</surname>
+							<given-names>KC</given-names>
+						</name>
+						<name>
+							<surname>Lin</surname>
+							<given-names>CL</given-names>
+						</name>
+						<name>
+							<surname>Lee</surname>
+							<given-names>H</given-names>
+						</name>
+						<name>
+							<surname>Tsai</surname>
+							<given-names>FJ</given-names>
+						</name>
+						<name>
+							<surname>Cheng</surname>
+							<given-names>YW</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>p53 Expression in pterygium by immunohistochemical analysis: a
+						series report of 127 cases and review of the literature</article-title>
+					<source>Cornea</source>
+					<year>2005</year>
+					<volume>24</volume>
+					<issue>5</issue>
+					<fpage>583</fpage>
+					<lpage>586</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B39">
+				<label>39</label>
+				<mixed-citation>Feng QY, Hu ZX, Song XL, Pan HW. Aberrant expression of genes and
+					proteins in pterygium and their implications in the pathogenesis. Int J
+					Ophthalmol. 2017;10(6):973-81.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Feng</surname>
+							<given-names>QY</given-names>
+						</name>
+						<name>
+							<surname>Hu</surname>
+							<given-names>ZX</given-names>
+						</name>
+						<name>
+							<surname>Song</surname>
+							<given-names>XL</given-names>
+						</name>
+						<name>
+							<surname>Pan</surname>
+							<given-names>HW</given-names>
+						</name>
+					</person-group>
+					<article-title>Aberrant expression of genes and proteins in pterygium and their
+						implications in the pathogenesis</article-title>
+					<source>Int J Ophthalmol</source>
+					<year>2017</year>
+					<volume>10</volume>
+					<issue>6</issue>
+					<fpage>973</fpage>
+					<lpage>981</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B40">
+				<label>40</label>
+				<mixed-citation>Ramalho FS, Maestri C, Ramalho LN, Ribeiro-Silva A, Romão E.
+					Expression of p63 and p16 in primary and recurrent pterygia. Graefes Arch Clin
+					Exp Ophthalmol. 2006;244(10):1310-4.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ramalho</surname>
+							<given-names>FS</given-names>
+						</name>
+						<name>
+							<surname>Maestri</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Ramalho</surname>
+							<given-names>LN</given-names>
+						</name>
+						<name>
+							<surname>Ribeiro-Silva</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Romão</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<article-title>Expression of p63 and p16 in primary and recurrent
+						pterygia</article-title>
+					<source>Graefes Arch Clin Exp Ophthalmol</source>
+					<year>2006</year>
+					<volume>244</volume>
+					<issue>10</issue>
+					<fpage>1310</fpage>
+					<lpage>1314</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B41">
+				<label>41</label>
+				<mixed-citation>Tong L. Expression of p27(KIP1) and cyclin D1, and cell
+					proliferation in human pterygium. Br J Ophthalmol.
+					2008;92(1):157.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tong</surname>
+							<given-names>L</given-names>
+						</name>
+					</person-group>
+					<article-title>Expression of p27(KIP1) and cyclin D1, and cell proliferation in
+						human pterygium</article-title>
+					<source>Br J Ophthalmol</source>
+					<year>2008</year>
+					<volume>92</volume>
+					<issue>1</issue>
+					<fpage>157</fpage>
+					<lpage>157</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B42">
+				<label>42</label>
+				<mixed-citation>Zhang LW, Chen BH, Xi XH, Han QQ, Tang LS. Survivin and p53
+					expression in primary and recurrent pterygium in Chinese patients. Int J
+					Ophthalmol. 2011;4(4):388-92.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zhang</surname>
+							<given-names>LW</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>BH</given-names>
+						</name>
+						<name>
+							<surname>Xi</surname>
+							<given-names>XH</given-names>
+						</name>
+						<name>
+							<surname>Han</surname>
+							<given-names>QQ</given-names>
+						</name>
+						<name>
+							<surname>Tang</surname>
+							<given-names>LS</given-names>
+						</name>
+					</person-group>
+					<article-title>Survivin and p53 expression in primary and recurrent pterygium in
+						Chinese patients</article-title>
+					<source>Int J Ophthalmol</source>
+					<year>2011</year>
+					<volume>4</volume>
+					<issue>4</issue>
+					<fpage>388</fpage>
+					<lpage>392</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B43">
+				<label>43</label>
+				<mixed-citation>Maxia C, Perra MT, Demurtas P, Minerba L, Murtas D, Piras F, et al.
+					Expression of survivin protein in pterygium and relationship with oxidative DNA
+					damage. J Cell Mol Med. 2008;12(6A):2372-80.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Maxia</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Perra</surname>
+							<given-names>MT</given-names>
+						</name>
+						<name>
+							<surname>Demurtas</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Minerba</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Murtas</surname>
+							<given-names>D</given-names>
+						</name>
+						<name>
+							<surname>Piras</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<article-title>Expression of survivin protein in pterygium and relationship with
+						oxidative DNA damage</article-title>
+					<source>J Cell Mol Med</source>
+					<year>2008</year>
+					<volume>12</volume>
+					<issue>6A</issue>
+					<fpage>2372</fpage>
+					<lpage>2380</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B44">
+				<label>44</label>
+				<mixed-citation>Maxia C, Perra MT, Demurtas P, Minerba L, Murtas D, Piras F, et al.
+					Relationship between the expression of cyclooxygenase-2 and survivin in primary
+					pterygium. Mol Vis. 2009;15(15):458-63.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Maxia</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Perra</surname>
+							<given-names>MT</given-names>
+						</name>
+						<name>
+							<surname>Demurtas</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Minerba</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Murtas</surname>
+							<given-names>D</given-names>
+						</name>
+						<name>
+							<surname>Piras</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<article-title>Relationship between the expression of cyclooxygenase-2 and
+						survivin in primary pterygium</article-title>
+					<source>Mol Vis</source>
+					<year>2009</year>
+					<volume>15</volume>
+					<issue>15</issue>
+					<fpage>458</fpage>
+					<lpage>463</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B45">
+				<label>45</label>
+				<mixed-citation>Tsujimoto Y, Finger LR, Yunis J, Nowell PC, Croce CM. Cloning of the
+					chromosome breakpoint of neoplastic B cells with the t(14;18) chromosome
+					translocation. Science. 1984;226(4678):1097-9.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tsujimoto</surname>
+							<given-names>Y</given-names>
+						</name>
+						<name>
+							<surname>Finger</surname>
+							<given-names>LR</given-names>
+						</name>
+						<name>
+							<surname>Yunis</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Nowell</surname>
+							<given-names>PC</given-names>
+						</name>
+						<name>
+							<surname>Croce</surname>
+							<given-names>CM</given-names>
+						</name>
+					</person-group>
+					<article-title>Cloning of the chromosome breakpoint of neoplastic B cells with
+						the t(14;18) chromosome translocation</article-title>
+					<source>Science</source>
+					<year>1984</year>
+					<volume>226</volume>
+					<issue>4678</issue>
+					<fpage>1097</fpage>
+					<lpage>1099</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B46">
+				<label>46</label>
+				<mixed-citation>Cleary ML, Smith SD, Sklar J. Cloning and structural analysis of
+					cDNAs for bcl-2 and a hybrid bcl-2/immunoglobulin transcript resulting from the
+					t(14;18) translocation. Cell. 1986;47(1):19-28.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cleary</surname>
+							<given-names>ML</given-names>
+						</name>
+						<name>
+							<surname>Smith</surname>
+							<given-names>SD</given-names>
+						</name>
+						<name>
+							<surname>Sklar</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<article-title>Cloning and structural analysis of cDNAs for bcl-2 and a hybrid
+						bcl-2/immunoglobulin transcript resulting from the t(14;18)
+						translocation</article-title>
+					<source>Cell</source>
+					<year>1986</year>
+					<volume>47</volume>
+					<issue>1</issue>
+					<fpage>19</fpage>
+					<lpage>28</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B47">
+				<label>47</label>
+				<mixed-citation>Cui YH, Li HY, Gao ZX, Liang N, Ma SS, Meng FJ, et al. Regulation of
+					apoptosis by miR-122 in pterygium via targeting Bcl-w. Invest Ophthalmol Vis
+					Sci. 2016;57(8):3723-30.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cui</surname>
+							<given-names>YH</given-names>
+						</name>
+						<name>
+							<surname>Li</surname>
+							<given-names>HY</given-names>
+						</name>
+						<name>
+							<surname>Gao</surname>
+							<given-names>ZX</given-names>
+						</name>
+						<name>
+							<surname>Liang</surname>
+							<given-names>N</given-names>
+						</name>
+						<name>
+							<surname>Ma</surname>
+							<given-names>SS</given-names>
+						</name>
+						<name>
+							<surname>Meng</surname>
+							<given-names>FJ</given-names>
+						</name>
+					</person-group>
+					<article-title>Regulation of apoptosis by miR-122 in pterygium via targeting
+						Bcl-w</article-title>
+					<source>Invest Ophthalmol Vis Sci</source>
+					<year>2016</year>
+					<volume>57</volume>
+					<issue>8</issue>
+					<fpage>3723</fpage>
+					<lpage>3730</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B48">
+				<label>48</label>
+				<mixed-citation>Liu Y, Xu H, An M. mTORC1 regulates apoptosis and cell proliferation
+					in pterygium via targeting autophagy and FGFR3. Sci Rep.
+					2017;7(1):7339.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Liu</surname>
+							<given-names>Y</given-names>
+						</name>
+						<name>
+							<surname>Xu</surname>
+							<given-names>H</given-names>
+						</name>
+						<name>
+							<surname>An</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<article-title>mTORC1 regulates apoptosis and cell proliferation in pterygium
+						via targeting autophagy and FGFR3</article-title>
+					<source>Sci Rep</source>
+					<year>2017</year>
+					<volume>7</volume>
+					<issue>1</issue>
+					<fpage>7339</fpage>
+					<lpage>7339</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B49">
+				<label>49</label>
+				<mixed-citation>Gumbiner BM. Cell adhesion: the molecular basis of tissue
+					architecture and morphogenesis. Cell. 1996;84(3):345-57.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gumbiner</surname>
+							<given-names>BM</given-names>
+						</name>
+					</person-group>
+					<article-title>Cell adhesion: the molecular basis of tissue architecture and
+						morphogenesis</article-title>
+					<source>Cell</source>
+					<year>1996</year>
+					<volume>84</volume>
+					<issue>3</issue>
+					<fpage>345</fpage>
+					<lpage>357</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B50">
+				<label>50</label>
+				<mixed-citation>Beden U, Irkeç M, Orhan D, Orhan M. The roles of T-lymphocyte
+					subpopulations (CD4 and CD8), intercellular adhesion molecule-1 (ICAM-1), HLA-DR
+					receptor, and mast cells in etiopathogenesis of pterygium. Ocul Immunol Inflamm.
+					2003;11(2):115-22.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Beden</surname>
+							<given-names>U</given-names>
+						</name>
+						<name>
+							<surname>Irkeç</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Orhan</surname>
+							<given-names>D</given-names>
+						</name>
+						<name>
+							<surname>Orhan</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<article-title>The roles of T-lymphocyte subpopulations (CD4 and CD8),
+						intercellular adhesion molecule-1 (ICAM-1), HLA-DR receptor, and mast cells
+						in etiopathogenesis of pterygium</article-title>
+					<source>Ocul Immunol Inflamm</source>
+					<year>2003</year>
+					<volume>11</volume>
+					<issue>2</issue>
+					<fpage>115</fpage>
+					<lpage>122</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B51">
+				<label>51</label>
+				<mixed-citation>Kase S, Osaki M, Sato I, Takahashi S, Nakanishi K, Yoshida K, et al.
+					Immunolocalisation of E-cadherin and beta-catenin in human pterygium. Br J
+					Ophthalmol. 2007;91(9):1209-12.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kase</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Osaki</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Sato</surname>
+							<given-names>I</given-names>
+						</name>
+						<name>
+							<surname>Takahashi</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Nakanishi</surname>
+							<given-names>K</given-names>
+						</name>
+						<name>
+							<surname>Yoshida</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<article-title>Immunolocalisation of E-cadherin and beta-catenin in human
+						pterygium</article-title>
+					<source>Br J Ophthalmol</source>
+					<year>2007</year>
+					<volume>91</volume>
+					<issue>9</issue>
+					<fpage>1209</fpage>
+					<lpage>1212</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B52">
+				<label>52</label>
+				<mixed-citation>Sebastiá R, Ventura MP, Solari HP, Antecka E, Orellana ME, Burnier
+					MN. Immunohistochemical detection of Hsp90 and Ki-67 in pterygium. Diagn Pathol.
+					2013;8:32.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sebastiá</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Ventura</surname>
+							<given-names>MP</given-names>
+						</name>
+						<name>
+							<surname>Solari</surname>
+							<given-names>HP</given-names>
+						</name>
+						<name>
+							<surname>Antecka</surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>Orellana</surname>
+							<given-names>ME</given-names>
+						</name>
+						<name>
+							<surname>Burnier</surname>
+							<given-names>MN</given-names>
+						</name>
+					</person-group>
+					<article-title>Immunohistochemical detection of Hsp90 and Ki-67 in
+						pterygium</article-title>
+					<source>Diagn Pathol</source>
+					<year>2013</year>
+					<volume>8</volume>
+					<fpage>32</fpage>
+					<lpage>32</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B53">
+				<label>53</label>
+				<mixed-citation>Liang K, Jiang Z, Ding BQ, Cheng P, Huang DK, Tao LM. Expression of
+					cell proliferation and apoptosis biomarkers in pterygia and normal conjunctiva.
+					Mol Vis. 2011;17:1687-93.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Liang</surname>
+							<given-names>K</given-names>
+						</name>
+						<name>
+							<surname>Jiang</surname>
+							<given-names>Z</given-names>
+						</name>
+						<name>
+							<surname>Ding</surname>
+							<given-names>BQ</given-names>
+						</name>
+						<name>
+							<surname>Cheng</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Huang</surname>
+							<given-names>DK</given-names>
+						</name>
+						<name>
+							<surname>Tao</surname>
+							<given-names>LM</given-names>
+						</name>
+					</person-group>
+					<article-title>Expression of cell proliferation and apoptosis biomarkers in
+						pterygia and normal conjunctiva</article-title>
+					<source>Mol Vis</source>
+					<year>2011</year>
+					<volume>17</volume>
+					<fpage>1687</fpage>
+					<lpage>1693</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B54">
+				<label>54</label>
+				<mixed-citation>Das P, Gokani A, Bagchi K, Bhaduri G, Chaudhuri S, Law S. Limbal
+					epithelial stem-microenvironmental alteration leads to pterygium development.
+					Mol Cell Biochem. 2015;402(1-2):123-39.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Das</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Gokani</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Bagchi</surname>
+							<given-names>K</given-names>
+						</name>
+						<name>
+							<surname>Bhaduri</surname>
+							<given-names>G</given-names>
+						</name>
+						<name>
+							<surname>Chaudhuri</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Law</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<article-title>Limbal epithelial stem-microenvironmental alteration leads to
+						pterygium development</article-title>
+					<source>Mol Cell Biochem</source>
+					<year>2015</year>
+					<volume>402</volume>
+					<issue>1-2</issue>
+					<fpage>123</fpage>
+					<lpage>139</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B55">
+				<label>55</label>
+				<mixed-citation>Tung JN, Chiang CC, Tsai YY, Chou YY, Yeh KT, Lee H, et al. CyclinD1
+					protein expressed in pterygia is associated with b-catenin protein localization.
+					Mol Vis. 2010;16:2733-8.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tung</surname>
+							<given-names>JN</given-names>
+						</name>
+						<name>
+							<surname>Chiang</surname>
+							<given-names>CC</given-names>
+						</name>
+						<name>
+							<surname>Tsai</surname>
+							<given-names>YY</given-names>
+						</name>
+						<name>
+							<surname>Chou</surname>
+							<given-names>YY</given-names>
+						</name>
+						<name>
+							<surname>Yeh</surname>
+							<given-names>KT</given-names>
+						</name>
+						<name>
+							<surname>Lee</surname>
+							<given-names>H</given-names>
+						</name>
+					</person-group>
+					<article-title>CyclinD1 protein expressed in pterygia is associated with
+						b-catenin protein localization</article-title>
+					<source>Mol Vis</source>
+					<year>2010</year>
+					<volume>16</volume>
+					<fpage>2733</fpage>
+					<lpage>2738</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B56">
+				<label>56</label>
+				<mixed-citation>Pharmakakis N, Assimakopoulou M. Immunohistochemical detection of
+					heat shock protein 27 and Ki-67 in human pterygium. Br J Ophthalmol.
+					2001;85(11):1392-3.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pharmakakis</surname>
+							<given-names>N</given-names>
+						</name>
+						<name>
+							<surname>Assimakopoulou</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<article-title>Immunohistochemical detection of heat shock protein 27 and Ki-67
+						in human pterygium</article-title>
+					<source>Br J Ophthalmol</source>
+					<year>2001</year>
+					<volume>85</volume>
+					<issue>11</issue>
+					<fpage>1392</fpage>
+					<lpage>1393</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B57">
+				<label>57</label>
+				<mixed-citation>Pagoulatos D, Pharmakakis N, Lakoumentas J, Assimakopoulou M.
+					Hypoxia-inducible factor-1&#x03B1;, von Hippel-Lindau protein, and heat shock
+					protein expression in ophthalmic pterygium and normal conjunctiva. Mol Vis.
+					2014;20:441-57.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pagoulatos</surname>
+							<given-names>D</given-names>
+						</name>
+						<name>
+							<surname>Pharmakakis</surname>
+							<given-names>N</given-names>
+						</name>
+						<name>
+							<surname>Lakoumentas</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname/>
+							<given-names/>
+						</name>
+					</person-group>
+					<article-title>Hypoxia-inducible factor-1&#x03B1;, von Hippel-Lindau protein,
+						and heat shock protein expression in ophthalmic pterygium and normal
+						conjunctiva</article-title>
+					<source>Mol Vis</source>
+					<year>2014</year>
+					<volume>20</volume>
+					<fpage>441</fpage>
+					<lpage>457</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B58">
+				<label>58</label>
+				<mixed-citation>Capaldo CT, Nusrat A. Claudin switching: Physiological plasticity of
+					the tight junction. Semin Cell Dev Biol. 2015;42:22-9.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Capaldo</surname>
+							<given-names>CT</given-names>
+						</name>
+						<name>
+							<surname>Nusrat</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<article-title>Claudin switching: Physiological plasticity of the tight
+						junction</article-title>
+					<source>Semin Cell Dev Biol</source>
+					<year>2015</year>
+					<volume>42</volume>
+					<fpage>22</fpage>
+					<lpage>29</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B59">
+				<label>59</label>
+				<mixed-citation>Yoshida Y, Ban Y, Kinoshita S. Tight junction transmembrane protein
+					claudin subtype expression and distribution in human corneal and conjunctival
+					epithelium. Invest Ophthalmol Vis Sci. 2009;50(5):2103-8.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Yoshida</surname>
+							<given-names>Y</given-names>
+						</name>
+						<name>
+							<surname>Ban</surname>
+							<given-names>Y</given-names>
+						</name>
+						<name>
+							<surname>Kinoshita</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<article-title>Tight junction transmembrane protein claudin subtype expression
+						and distribution in human corneal and conjunctival
+						epithelium</article-title>
+					<source>Invest Ophthalmol Vis Sci</source>
+					<year>2009</year>
+					<volume>50</volume>
+					<issue>5</issue>
+					<fpage>2103</fpage>
+					<lpage>2108</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B60">
+				<label>60</label>
+				<mixed-citation>Dogan AS, Onder E, Arikok AT, Bicer T, Gurdal C. Claudin-1
+					expressions decrease in pterygium with respect to normal conjunctiva. Cutan Ocul
+					Toxicol. 2016;35(4):315-8.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dogan</surname>
+							<given-names>AS</given-names>
+						</name>
+						<name>
+							<surname>Onder</surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>Arikok</surname>
+							<given-names>AT</given-names>
+						</name>
+						<name>
+							<surname>Bicer</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Gurdal</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<article-title>Claudin-1 expressions decrease in pterygium with respect to
+						normal conjunctiva</article-title>
+					<source>Cutan Ocul Toxicol</source>
+					<year>2016</year>
+					<volume>35</volume>
+					<issue>4</issue>
+					<fpage>315</fpage>
+					<lpage>318</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B61">
+				<label>61</label>
+				<mixed-citation>Pérez-Rico C, Pascual G, Sotomayor S, Montes-Mollón MA, Trejo C,
+					Sasaki T, et al. Tropoelastin and fibulin overexpression in the subepithelial
+					connective tissue of human pterygium. Am J Ophthalmol.
+					2011;151(1):44-52.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pérez-Rico</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Pascual</surname>
+							<given-names>G</given-names>
+						</name>
+						<name>
+							<surname>Sotomayor</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Montes-Mollón</surname>
+							<given-names>MA</given-names>
+						</name>
+						<name>
+							<surname>Trejo</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Sasaki</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<article-title>Tropoelastin and fibulin overexpression in the subepithelial
+						connective tissue of human pterygium</article-title>
+					<source>Am J Ophthalmol</source>
+					<year>2011</year>
+					<volume>151</volume>
+					<issue>1</issue>
+					<fpage>44</fpage>
+					<lpage>52</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B62">
+				<label>62</label>
+				<mixed-citation>Zhang M, Liu Z, Xie Y. The study on the expression of keratin
+					proteins in pterygial epithelium. Yan Ke Xue Bao.
+					2000;16(1):48-52.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zhang</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Liu</surname>
+							<given-names>Z</given-names>
+						</name>
+						<name>
+							<surname>Xie</surname>
+							<given-names>Y</given-names>
+						</name>
+					</person-group>
+					<article-title>The study on the expression of keratin proteins in pterygial
+						epithelium</article-title>
+					<source>Yan Ke Xue Bao</source>
+					<year>2000</year>
+					<volume>16</volume>
+					<issue>1</issue>
+					<fpage>48</fpage>
+					<lpage>52</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B63">
+				<label>63</label>
+				<mixed-citation>Dake Y, Mukae R, Soda Y, Kaneko M, Amemiya T. Immunohistochemical
+					localization of collagen types I, II, III, and IV in pterygium tissues. Acta
+					Histochem. 1989;87(1):71-4.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dake</surname>
+							<given-names>Y</given-names>
+						</name>
+						<name>
+							<surname>Mukae</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Soda</surname>
+							<given-names>Y</given-names>
+						</name>
+						<name>
+							<surname>Kaneko</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Amemiya</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<article-title>Immunohistochemical localization of collagen types I, II, III,
+						and IV in pterygium tissues</article-title>
+					<source>Acta Histochem</source>
+					<year>1989</year>
+					<volume>87</volume>
+					<issue>1</issue>
+					<fpage>71</fpage>
+					<lpage>74</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B64">
+				<label>64</label>
+				<mixed-citation>Yong VW, Krekoski CA, Forsyth PA, Bell R, Edwards DR. Matrix
+					metalloproteinases and diseases of the CNS. Trends Neurosci.
+					1998;21(2):75-80.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Yong</surname>
+							<given-names>VW</given-names>
+						</name>
+						<name>
+							<surname>Krekoski</surname>
+							<given-names>CA</given-names>
+						</name>
+						<name>
+							<surname>Forsyth</surname>
+							<given-names>PA</given-names>
+						</name>
+						<name>
+							<surname>Bell</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Edwards</surname>
+							<given-names>DR</given-names>
+						</name>
+					</person-group>
+					<article-title>Matrix metalloproteinases and diseases of the CNS</article-title>
+					<source>Trends Neurosci</source>
+					<year>1998</year>
+					<volume>21</volume>
+					<issue>2</issue>
+					<fpage>75</fpage>
+					<lpage>80</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B65">
+				<label>65</label>
+				<mixed-citation>Sternlicht MD, Werb Z. How matrix metalloproteinases regulate cell
+					behavior. Annu Rev Cell Dev Biol. 2001;17(1):463-516.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sternlicht</surname>
+							<given-names>MD</given-names>
+						</name>
+						<name>
+							<surname>Werb</surname>
+							<given-names>Z</given-names>
+						</name>
+					</person-group>
+					<article-title>How matrix metalloproteinases regulate cell
+						behavior</article-title>
+					<source>Annu Rev Cell Dev Biol</source>
+					<year>2001</year>
+					<volume>17</volume>
+					<issue>1</issue>
+					<fpage>463</fpage>
+					<lpage>516</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B66">
+				<label>66</label>
+				<mixed-citation>Brocker C, Thompson D, Matsumoto A, Nebert DW, Vasiliou V.
+					Evolutionary divergence and functions of the human interleukin (IL) gene family.
+					Hum Genomics. 2010;5(1):30-55.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Brocker</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Thompson</surname>
+							<given-names>D</given-names>
+						</name>
+						<name>
+							<surname>Matsumoto</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Nebert</surname>
+							<given-names>DW</given-names>
+						</name>
+						<name>
+							<surname>Vasiliou</surname>
+							<given-names>V</given-names>
+						</name>
+					</person-group>
+					<article-title>Evolutionary divergence and functions of the human interleukin
+						(IL) gene family</article-title>
+					<source>Hum Genomics</source>
+					<year>2010</year>
+					<volume>5</volume>
+					<issue>1</issue>
+					<fpage>30</fpage>
+					<lpage>55</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B67">
+				<label>67</label>
+				<mixed-citation>Huang ZM, Zhang ZQ, Li YF, Du H, Yao XM. Interleukine-l alpha
+					expression in primary and recurrent pterygium. Chin J Pract Ophthalmol.
+					2010;(4):407-9.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Huang</surname>
+							<given-names>ZM</given-names>
+						</name>
+						<name>
+							<surname>Zhang</surname>
+							<given-names>ZQ</given-names>
+						</name>
+						<name>
+							<surname>Li</surname>
+							<given-names>YF</given-names>
+						</name>
+						<name>
+							<surname>Du</surname>
+							<given-names>H</given-names>
+						</name>
+						<name>
+							<surname>Yao</surname>
+							<given-names>XM</given-names>
+						</name>
+					</person-group>
+					<article-title>Interleukine-l alpha expression in primary and recurrent
+						pterygium</article-title>
+					<source>Chin J Pract Ophthalmol</source>
+					<year>2010</year>
+					<issue>4</issue>
+					<fpage>407</fpage>
+					<lpage>409</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B68">
+				<label>68</label>
+				<mixed-citation>Seet LF, Tong L, Su R, Wong TT. Involvement of SPARC and MMP-3 in
+					the pathogenesis of human pterygium. Invest Ophthalmol Vis Sci.
+					2012;53(2):587-95.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Seet</surname>
+							<given-names>LF</given-names>
+						</name>
+						<name>
+							<surname>Tong</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Su</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Wong</surname>
+							<given-names>TT</given-names>
+						</name>
+					</person-group>
+					<article-title>Involvement of SPARC and MMP-3 in the pathogenesis of human
+						pterygium</article-title>
+					<source>Invest Ophthalmol Vis Sci</source>
+					<year>2012</year>
+					<volume>53</volume>
+					<issue>2</issue>
+					<fpage>587</fpage>
+					<lpage>595</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B69">
+				<label>69</label>
+				<mixed-citation>Kim YH, Jung JC, Jung SY, Kim YI, Lee KW, Park YJ. Cyclosporine A
+					downregulates MMP-3 and MMP-13 expression in cultured pterygium fibroblasts.
+					Cornea. 2015;34(9):1137-43.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kim</surname>
+							<given-names>YH</given-names>
+						</name>
+						<name>
+							<surname>Jung</surname>
+							<given-names>JC</given-names>
+						</name>
+						<name>
+							<surname>Jung</surname>
+							<given-names>SY</given-names>
+						</name>
+						<name>
+							<surname>Kim</surname>
+							<given-names>YI</given-names>
+						</name>
+						<name>
+							<surname>Lee</surname>
+							<given-names>KW</given-names>
+						</name>
+						<name>
+							<surname>Park</surname>
+							<given-names>YJ</given-names>
+						</name>
+					</person-group>
+					<article-title>Cyclosporine A downregulates MMP-3 and MMP-13 expression in
+						cultured pterygium fibroblasts</article-title>
+					<source>Cornea</source>
+					<year>2015</year>
+					<volume>34</volume>
+					<issue>9</issue>
+					<fpage>1137</fpage>
+					<lpage>1143</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B70">
+				<label>70</label>
+				<mixed-citation>Di Girolamo N, Kumar RK, Coroneo MT, Wakefield D. UVB-mediated
+					induction of interleukin-6 and -8 in pterygia and cultured human pterygium
+					epithelial cells. Invest Ophthalmol Vis Sci. 2002;
+					43(11):3430-7.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Di Girolamo</surname>
+							<given-names>N</given-names>
+						</name>
+						<name>
+							<surname>Kumar</surname>
+							<given-names>RK</given-names>
+						</name>
+						<name>
+							<surname>Coroneo</surname>
+							<given-names>MT</given-names>
+						</name>
+						<name>
+							<surname>Wakefield</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<article-title>UVB-mediated induction of interleukin-6 and -8 in pterygia and
+						cultured human pterygium epithelial cells</article-title>
+					<source>Invest Ophthalmol Vis Sci</source>
+					<year>2002</year>
+					<volume>43</volume>
+					<issue>11</issue>
+					<fpage>3430</fpage>
+					<lpage>3437</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B71">
+				<label>71</label>
+				<mixed-citation>Koch AE, Polverini PJ, Kunkel SL, Harlow LA, DiPietro LA, Elner VM,
+					et al. Interleukin-8 as a macrophage-derived mediator of angiogenesis. Science.
+					1992;258(5089):1798-801.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Koch</surname>
+							<given-names>AE</given-names>
+						</name>
+						<name>
+							<surname>Polverini</surname>
+							<given-names>PJ</given-names>
+						</name>
+						<name>
+							<surname>Kunkel</surname>
+							<given-names>SL</given-names>
+						</name>
+						<name>
+							<surname>Harlow</surname>
+							<given-names>LA</given-names>
+						</name>
+						<name>
+							<surname>DiPietro</surname>
+							<given-names>LA</given-names>
+						</name>
+						<name>
+							<surname>Elner</surname>
+							<given-names>VM</given-names>
+						</name>
+					</person-group>
+					<article-title>Interleukin-8 as a macrophage-derived mediator of
+						angiogenesis</article-title>
+					<source>Science</source>
+					<year>1992</year>
+					<volume>258</volume>
+					<issue>5089</issue>
+					<fpage>1798</fpage>
+					<lpage>1801</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B72">
+				<label>72</label>
+				<mixed-citation>Jabarin B, Solomon A, Amer R. Interleukin-17 and its correlation
+					with vascular endothelial growth factor expression in ocular surface
+					pathologies: a histologic study. Eur J Ophthalmol. 2016;
+					26(4):283-6.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jabarin</surname>
+							<given-names>B</given-names>
+						</name>
+						<name>
+							<surname>Solomon</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Amer</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<article-title>Interleukin-17 and its correlation with vascular endothelial
+						growth factor expression in ocular surface pathologies: a histologic
+						study</article-title>
+					<source>Eur J Ophthalmol</source>
+					<year>2016</year>
+					<volume>26</volume>
+					<issue>4</issue>
+					<fpage>283</fpage>
+					<lpage>286</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B73">
+				<label>73</label>
+				<mixed-citation>Tyson JJ, Novak B. Control of cell growth, division and death:
+					information processing in living cells. Interface Focus.
+					2014;4(3):20130070.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tyson</surname>
+							<given-names>JJ</given-names>
+						</name>
+						<name>
+							<surname>Novak</surname>
+							<given-names>B</given-names>
+						</name>
+					</person-group>
+					<article-title>Control of cell growth, division and death: information
+						processing in living cells</article-title>
+					<source>Interface Focus</source>
+					<year>2014</year>
+					<volume>4</volume>
+					<issue>3</issue>
+					<fpage>20130070</fpage>
+					<lpage>20130070</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B74">
+				<label>74</label>
+				<mixed-citation>Witmer AN, Vrensen GF, Van Noorden CJ, Schlingemann RO. Vascular
+					endothelial growth factors and angiogenesis in eye disease. Prog Retin Eye Res.
+					2003;22(1):1-29.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Witmer</surname>
+							<given-names>AN</given-names>
+						</name>
+						<name>
+							<surname>Vrensen</surname>
+							<given-names>GF</given-names>
+						</name>
+						<name>
+							<surname>Van Noorden</surname>
+							<given-names>CJ</given-names>
+						</name>
+						<name>
+							<surname>Schlingemann</surname>
+							<given-names>RO</given-names>
+						</name>
+					</person-group>
+					<article-title>Vascular endothelial growth factors and angiogenesis in eye
+						disease</article-title>
+					<source>Prog Retin Eye Res</source>
+					<year>2003</year>
+					<volume>22</volume>
+					<issue>1</issue>
+					<fpage>1</fpage>
+					<lpage>29</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B75">
+				<label>75</label>
+				<mixed-citation>Fukuhara J, Kase S, Ohashi T, Ando R, Dong Z, Noda K, et al.
+					Expression of vascular endothelial growth factor C in human pterygium. Histochem
+					Cell Biol. 2013;139(2):381-9.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fukuhara</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Kase</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Ohashi</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Ando</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Dong</surname>
+							<given-names>Z</given-names>
+						</name>
+						<name>
+							<surname>Noda</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<article-title>Expression of vascular endothelial growth factor C in human
+						pterygium</article-title>
+					<source>Histochem Cell Biol</source>
+					<year>2013</year>
+					<volume>139</volume>
+					<issue>2</issue>
+					<fpage>381</fpage>
+					<lpage>389</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B76">
+				<label>76</label>
+				<mixed-citation>Gumus K, Karakucuk S, Mirza GE, Akgun H, Arda H, Oner AO.
+					Overexpression of vascular endothelial growth factor receptor 2 in pterygia may
+					have a predictive value for a higher postoperative recurrence rate. Br J
+					Ophthalmol. 2014;98(6):796-800.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gumus</surname>
+							<given-names>K</given-names>
+						</name>
+						<name>
+							<surname>Karakucuk</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Mirza</surname>
+							<given-names>GE</given-names>
+						</name>
+						<name>
+							<surname>Akgun</surname>
+							<given-names>H</given-names>
+						</name>
+						<name>
+							<surname>Arda</surname>
+							<given-names>H</given-names>
+						</name>
+						<name>
+							<surname>Oner</surname>
+							<given-names>AO</given-names>
+						</name>
+					</person-group>
+					<article-title>Overexpression of vascular endothelial growth factor receptor 2
+						in pterygia may have a predictive value for a higher postoperative
+						recurrence rate</article-title>
+					<source>Br J Ophthalmol</source>
+					<year>2014</year>
+					<volume>98</volume>
+					<issue>6</issue>
+					<fpage>796</fpage>
+					<lpage>800</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B77">
+				<label>77</label>
+				<mixed-citation>Govinden R, Bhoola KD. Genealogy, expression, and cellular function
+					of transforming growth factor-beta. Pharmacol Ther. 2003;
+					98(2):257-65.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Govinden</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Bhoola</surname>
+							<given-names>KD</given-names>
+						</name>
+					</person-group>
+					<article-title>Genealogy, expression, and cellular function of transforming
+						growth factor-beta</article-title>
+					<source>Pharmacol Ther</source>
+					<year>2003</year>
+					<volume>98</volume>
+					<issue>2</issue>
+					<fpage>257</fpage>
+					<lpage>265</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B78">
+				<label>78</label>
+				<mixed-citation>Zhong M, Shen W, Fu Q, Zhang Y. Quantitative detection of the
+					expression level of transforming growth factor beta and its receptors in
+					pterygium with RT- PCR. Int J Ophthalmol. 2009;2(4):302-5.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zhong</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Shen</surname>
+							<given-names>W</given-names>
+						</name>
+						<name>
+							<surname>Fu</surname>
+							<given-names>Q</given-names>
+						</name>
+						<name>
+							<surname>Zhang</surname>
+							<given-names>Y</given-names>
+						</name>
+					</person-group>
+					<article-title>Quantitative detection of the expression level of transforming
+						growth factor beta and its receptors in pterygium with RT-
+						PCR</article-title>
+					<source>Int J Ophthalmol</source>
+					<year>2009</year>
+					<volume>2</volume>
+					<issue>4</issue>
+					<fpage>302</fpage>
+					<lpage>305</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B79">
+				<label>79</label>
+				<mixed-citation>Bianchi E, Scarinci F, Grande C, Plateroti R, Plateroti P, Plateroti
+					AM, et al. Immunohistochemical profile of VEGF, TGF-b and PGE2 in human
+					pterygium and normal conjunctiva: experimental study and review of the
+					literature. Int J Immunopathol Pharmacol. 2012; 25(3):607-15.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bianchi</surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>Scarinci</surname>
+							<given-names>F</given-names>
+						</name>
+						<name>
+							<surname>Grande</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Plateroti</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Plateroti</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Plateroti</surname>
+							<given-names>AM</given-names>
+						</name>
+					</person-group>
+					<article-title>Immunohistochemical profile of VEGF, TGF-b and PGE2 in human
+						pterygium and normal conjunctiva: experimental study and review of the
+						literature</article-title>
+					<source>Int J Immunopathol Pharmacol</source>
+					<year>2012</year>
+					<volume>25</volume>
+					<issue>3</issue>
+					<fpage>607</fpage>
+					<lpage>615</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B80">
+				<label>80</label>
+				<mixed-citation>Hoyama E, Viveiros MM, Shiratori C, de Oliveira DE, Padovani CR,
+					Selva D, et al. Expression of vascular endothelial growth factor (VEGF) in
+					macrophages, fibroblasts, and endothelial cells in pterygium treated with
+					5-Fluorouracil. Semin Ophthalmol. 2015; 30(3):171-6.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hoyama</surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>Viveiros</surname>
+							<given-names>MM</given-names>
+						</name>
+						<name>
+							<surname>Shiratori</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>de Oliveira</surname>
+							<given-names>DE</given-names>
+						</name>
+						<name>
+							<surname>Padovani</surname>
+							<given-names>CR</given-names>
+						</name>
+						<name>
+							<surname>Selva</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<article-title>Expression of vascular endothelial growth factor (VEGF) in
+						macrophages, fibroblasts, and endothelial cells in pterygium treated with
+						5-Fluorouracil</article-title>
+					<source>Semin Ophthalmol</source>
+					<year>2015</year>
+					<volume>30</volume>
+					<issue>3</issue>
+					<fpage>171</fpage>
+					<lpage>176</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B81">
+				<label>81</label>
+				<mixed-citation>Zeng W, Liu Z, Dai H, Yan M, Luo H, Ke M, et al. Anti-fibrotic,
+					anti-VEGF or radiotherapy treatments as adjuvants for pterygium excision: a
+					systematic review and network meta-analysis. BMC Ophthalmol.
+					2017;17(1):211.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zeng</surname>
+							<given-names>W</given-names>
+						</name>
+						<name>
+							<surname>Liu</surname>
+							<given-names>Z</given-names>
+						</name>
+						<name>
+							<surname>Dai</surname>
+							<given-names>H</given-names>
+						</name>
+						<name>
+							<surname>Yan</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Luo</surname>
+							<given-names>H</given-names>
+						</name>
+						<name>
+							<surname>Ke</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<article-title>Anti-fibrotic, anti-VEGF or radiotherapy treatments as adjuvants
+						for pterygium excision: a systematic review and network
+						meta-analysis</article-title>
+					<source>BMC Ophthalmol</source>
+					<year>2017</year>
+					<volume>17</volume>
+					<issue>1</issue>
+					<fpage>211</fpage>
+					<lpage>211</lpage>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>
